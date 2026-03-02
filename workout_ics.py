@@ -1,7 +1,26 @@
+import os
 import json
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta, timezone
+
+STATE_FILE = "previous_courses.json"
+
+def load_previous_courses():
+    if os.path.exists(STATE_FILE):
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Could not load previous courses: {e}")
+    return {}
+
+def save_current_courses(courses_by_club):
+    try:
+        with open(STATE_FILE, "w", encoding="utf-8") as f:
+            json.dump(courses_by_club, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Could not save current courses: {e}")
 
 CLUBS = {
     "1f7a56be-13c6-47cf-a4f5-70b9e32ae30c": "Workout Juliusstraße",
@@ -58,10 +77,28 @@ def generate_ics(all_courses_by_club, filename):
     
     dtstamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     
+    previous_courses = load_previous_courses()
+    
     for club_id, courses in all_courses_by_club.items():
         club_name = CLUBS.get(club_id, "Workout")
         
+        prev_club_courses = previous_courses.get(club_id, [])
+        prev_course_dict = {c["Nr"]: c for c in prev_club_courses if "Nr" in c}
+        
         for course in courses:
+            is_new = False
+            nr = course.get("Nr")
+            
+            if nr not in prev_course_dict:
+                is_new = True
+            else:
+                prev_c = prev_course_dict[nr]
+                # Check if time, title, or room/instructor changed
+                if (course.get("Start") != prev_c.get("Start") or
+                    course.get("Ende") != prev_c.get("Ende") or
+                    course.get("Bezeichnung") != prev_c.get("Bezeichnung") or
+                    course.get("Ressourcen") != prev_c.get("Ressourcen")):
+                    is_new = True
             try:
                 # "Start": "2024-05-13T08:00:00.000Z"
                 start_dt = datetime.strptime(course["Start"], "%Y-%m-%dT%H:%M:%S.%fZ")
@@ -83,6 +120,9 @@ def generate_ics(all_courses_by_club, filename):
                             instructor = parts[1]
                 
                 name = course.get("Bezeichnung", "Kurs").replace(",", "\\,").replace(";", "\\;")
+                if is_new:
+                    name = f"[Neu] {name}"
+                    
                 uid = f"workout-{club_id}-{course.get('Nr', '')}-{start_dt.strftime('%Y%m%dT%H%M%S')}@workout-bs.de"
                 
                 desc_raw = f"Trainer: {instructor}\\nRaum: {room}\\n{course.get('Infotext', '')}"
@@ -108,6 +148,7 @@ def generate_ics(all_courses_by_club, filename):
         f.write("\n".join(ics_lines))
     
     print(f"Successfully wrote ICS to {filename}")
+    save_current_courses(all_courses_by_club)
 
 if __name__ == "__main__":
     courses_by_club = {}

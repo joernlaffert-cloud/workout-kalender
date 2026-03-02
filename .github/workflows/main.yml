@@ -24,4 +24,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Updated calendar"
-          file_pattern: 'workout_braunschweig_kurse.ics'
+          file_pattern: 'workout_braunschweig_kurse.ics previous_courses.json'
