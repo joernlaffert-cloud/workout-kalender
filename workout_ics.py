@@ -6,11 +6,13 @@ from datetime import datetime, timedelta, timezone
 
 STATE_FILE = "previous_courses.json"
 
-def load_previous_courses():
+def load_previous_courses() -> dict:
     if os.path.exists(STATE_FILE):
         try:
             with open(STATE_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
+                data = json.load(f)
+                if isinstance(data, dict):
+                    return data
         except Exception as e:
             print(f"Could not load previous courses: {e}")
     return {}
