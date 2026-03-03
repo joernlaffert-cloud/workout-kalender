@@ -1,0 +1,11 @@
+# Generated files
+workout_braunschweig_kurse.ics
+previous_courses.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
