@@ -5281,7 +5281,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font color=\"#ffffff\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Nach einem kurzen Warm-Up folgt ein WORKOUT für die Kräftigung und Straffung deines gesamten Körpers</font></p><!--StartFragment--><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Kennst du schon unsere ClubConnector App?</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">1. ClubConnector-App im App-Store runterladen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">2. QR Code im Studio einscannen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><!--EndFragment--><p><br/></p><p><br/></p><p><span style=\"font-size: 9.0pt;color: black;\"></span></p><p></p><p></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -5310,8 +5310,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-04-21T07:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 82256,
@@ -5352,8 +5351,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Wirbelsäulenspezifische Kräftigungs-, Dehnungs- und Mobilisationsübungen zum Abbau schmerzverursachender Verspannungen und Prävention von Rückenbeschwerden.</font></font></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -5411,7 +5410,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Wirbelsäulenspezifische Kräftigungs-, Dehnungs- und Mobilisationsübungen zum Abbau schmerzverursachender Verspannungen und Prävention von Rückenbeschwerden.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></p><p></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -5440,8 +5439,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-04-21T08:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 80851,
@@ -5483,8 +5481,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -5554,7 +5552,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p>Bewegung entsteht im Gehirn!</p><p><br/>Der Kurs verbindet neurowissenschaftliche<br/>Erkenntnisse mit Elementen aus Yin und<br/>Restorative Yoga, Tai Chi und<br/>Entspannungstechniken und dient der<br/>- Allgemeinen Verbesserung der Körperwahrnehmung<br/>- Verbesserung der Körperhaltung<br/>- Verbesserung der Körperkoordination<br/>- Erweiterung des Bewegungsradius durch die Verbesserung der Flexibilität<br/>- Sanften Dehnung<br/>-    Bewussten Entspannung</p><p><br/>Bitte immer warme Kleidung und / oder Decke mitbringen!<br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -5583,8 +5581,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
-      "BuchungszeitraumDate": "2026-04-21T09:00:00.000Z"
+      "FreiePlaetze": 15
     },
     {
       "Nr": 82362,
@@ -5626,8 +5623,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -5697,8 +5694,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -5768,8 +5765,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><font size=\"4\" face=\"'times new roman', serif\">Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.</font><!--EndFragment--><br/><br/><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -5839,7 +5836,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Das Hatha Yoga vermittelt die Körper- und Atemübungen der ältesten, aus Indien überlieferten Methode zur Förderung des Körperbewusstseins, zur Konzentration, Meditation und Entspannung.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font><span style=\"font-size: 9.0pt;color: #555555;\"></span></p><p></p><p><span style=\"font-size: 10.0pt;\"></span></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -5868,8 +5865,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-04-21T13:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 82511,
@@ -5911,7 +5907,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -5941,78 +5937,6 @@
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
       "FreiePlaetze": 25
-    },
-    {
-      "Nr": 67854,
-      "Start": "2026-04-28T15:30:00.000Z",
-      "Ende": "2026-04-28T16:00:00.000Z",
-      "Bezeichnung": "Bauch-Express",
-      "Terminart_Nr": 53,
-      "SerienterminNr": 540,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "132,Chiara Knofe,1",
-        "46,Kursraum 1,0"
-      ],
-      "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#009cc4",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 0,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 10,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Bauch-Rückentraining in vielen Variationen. Ein trainierter Bauch / Rücken sorgt für eine gute Haltung und Rückenentlastung.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"></font></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": false,
-      "AllRessources": [
-        {
-          "Id": 132,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "Chiara Knofe"
-        },
-        {
-          "Id": 46,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
-        }
-      ],
-      "RessourcesNrs": [
-        132,
-        46
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 132,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "Chiara Knofe"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-04-21T15:30:00.000Z"
     },
     {
       "Nr": 82572,
@@ -6054,7 +5978,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\"></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#faf7f7\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#faf7f7\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und</font><font color=\"#ffffff\"> probiere deine Lieblingskurse aus!</font></font></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -6083,8 +6007,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 24,
-      "BuchungszeitraumDate": "2026-04-21T16:00:00.000Z"
+      "FreiePlaetze": 24
     },
     {
       "Nr": 82625,
@@ -6126,7 +6049,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font color=\"#ffffff\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Nach einem kurzen Warm-Up folgt ein WORKOUT für die Kräftigung und Straffung deines gesamten Körpers</font></p><!--StartFragment--><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Kennst du schon unsere ClubConnector App?</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">1. ClubConnector-App im App-Store runterladen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">2. QR Code im Studio einscannen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><!--EndFragment--><p><br/></p><p><br/></p><p><span style=\"font-size: 9.0pt;color: black;\"></span></p><p></p><p></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -6155,8 +6078,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-04-21T16:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 68091,
@@ -6198,7 +6120,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Das TRX-WORKOUT ist eine effektive Trainingsmethode, bei der vor allem mit dem eigenen Körpergewicht gearbeitet wird. Nicht nur die Muskelkraft, sondern auch die Koordination, das Gleichgewicht, die Stabilität des Rumpfes, sowie die Ausdauer werden verbessert.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></p><p></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -6227,8 +6149,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 8,
-      "BuchungszeitraumDate": "2026-04-21T17:00:00.000Z"
+      "FreiePlaetze": 8
     },
     {
       "Nr": 82666,
@@ -6270,7 +6191,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">Hier werden lateinamerikanische Klänge mit Aerobic-Übungen, Tanzelementen und Intervalltraining kombiniert. Lass dich von der Musik mitreißen, trainiere nebenbei deinen ganzen Körper und steigere deine Ausdauer.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">​</font></p><p></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\"><br/></font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#f5f5f5\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p><font color=\"#f5f5f5\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglie</font><font face=\"Arial, Helvetica, sans-serif\"><font size=\"3\">d? Kein Problem, hol dir deine T</font><font size=\"3\">ageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></font></p><p></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -6299,8 +6220,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-04-21T17:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 68525,
@@ -6387,7 +6307,7 @@
         "79,Alex,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#009cc4",
@@ -6443,7 +6363,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 24,
       "BuchungszeitraumDate": "2026-04-22T08:00:00.000Z"
     },
     {
@@ -9254,7 +9174,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 78,
@@ -9397,7 +9317,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 78,
@@ -9540,7 +9460,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 140,
@@ -9825,7 +9745,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 115,
@@ -9968,7 +9888,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 142,
@@ -10040,7 +9960,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 46,
@@ -10112,7 +10032,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 107,
@@ -10184,7 +10104,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 142,
@@ -10256,7 +10176,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 162,
@@ -17469,7 +17389,7 @@
       "Nr": 123126,
       "Start": "2026-04-20T17:20:00.000Z",
       "Ende": "2026-04-20T18:20:00.000Z",
-      "Bezeichnung": "Cycle - Hannah Montana x HSM",
+      "Bezeichnung": "Cycle - Dance / Electro",
       "Terminart_Nr": 386,
       "SerienterminNr": 1612,
       "BlockIstFrei": 0,
@@ -17504,7 +17424,7 @@
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Special Dates im April:</font></strong></p><ul><font size=\"4\"><br/></font><li><font size=\"4\"><strong>02.04. – After Work Club (Dance / Electro)</strong><br/>Perfekt, um den Arbeitstag hinter dir zu lassen und mit treibenden Beats nochmal richtig aufzudrehen.</font></li><li><font size=\"4\"><strong>13.04. – Special Ride (EDM / Eurodance)</strong><br/>Freu dich auf ein elektrisierendes Set voller Festival-Vibes und nostalgischer Eurodance-Hits.</font></li><li><font size=\"4\"><strong>20.04. – After Work Club (Dance / Electro)</strong><br/>Noch einmal gemeinsam auspowern und den Feierabend feiern!</font></li><li><font size=\"4\"><strong>27.04. – Hannah Montana / High School Musical</strong><br/>Sing mit, fühl dich zurückversetzt und erlebe eine spaßige Ride-Session voller Throwback-Hits.<br/></font></li><font size=\"4\"><br/></font></ul><p><strong><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></strong></p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p class=\"isSelectedEnd\"><strong><span><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></span></strong></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></span></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></span></p><p class=\"isSelectedEnd\"><font size=\"4\"><strong><span>Special Dates im Mai:</span></strong><br/><span>04.05. – Dance / Electro</span><br/><span>Starte mit treibenden Beats in den Mai und bring dein Energielevel direkt nach oben!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>18.05. – Bieberchella</span><br/><span>Freu dich auf ein Ride voller Hits von Justin Bieber und Festival-Feeling pur – good vibes garantiert!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>25.05. – Dance / Electro</span><br/><span>Noch einmal auspowern zu starken Electro-Sounds und gemeinsam den Frühling feiern!</span></font></p><p><span><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></span></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
       "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
@@ -21305,7 +21225,7 @@
       "Nr": 123128,
       "Start": "2026-04-27T17:20:00.000Z",
       "Ende": "2026-04-27T18:20:00.000Z",
-      "Bezeichnung": "Cycle - Hannah Montana x HSM",
+      "Bezeichnung": "Cycle - Dance / Electro",
       "Terminart_Nr": 386,
       "SerienterminNr": 1612,
       "BlockIstFrei": 0,
@@ -21340,7 +21260,7 @@
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Special Dates im April:</font></strong></p><ul><font size=\"4\"><br/></font><li><font size=\"4\"><strong>02.04. – After Work Club (Dance / Electro)</strong><br/>Perfekt, um den Arbeitstag hinter dir zu lassen und mit treibenden Beats nochmal richtig aufzudrehen.</font></li><li><font size=\"4\"><strong>13.04. – Special Ride (EDM / Eurodance)</strong><br/>Freu dich auf ein elektrisierendes Set voller Festival-Vibes und nostalgischer Eurodance-Hits.</font></li><li><font size=\"4\"><strong>20.04. – After Work Club (Dance / Electro)</strong><br/>Noch einmal gemeinsam auspowern und den Feierabend feiern!</font></li><li><font size=\"4\"><strong>27.04. – Hannah Montana / High School Musical</strong><br/>Sing mit, fühl dich zurückversetzt und erlebe eine spaßige Ride-Session voller Throwback-Hits.<br/></font></li><font size=\"4\"><br/></font></ul><p><strong><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></strong></p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p class=\"isSelectedEnd\"><strong><span><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></span></strong></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></span></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></span></p><p class=\"isSelectedEnd\"><font size=\"4\"><strong><span>Special Dates im Mai:</span></strong><br/><span>04.05. – Dance / Electro</span><br/><span>Starte mit treibenden Beats in den Mai und bring dein Energielevel direkt nach oben!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>18.05. – Bieberchella</span><br/><span>Freu dich auf ein Ride voller Hits von Justin Bieber und Festival-Feeling pur – good vibes garantiert!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>25.05. – Dance / Electro</span><br/><span>Noch einmal auspowern zu starken Electro-Sounds und gemeinsam den Frühling feiern!</span></font></p><p><span><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></span></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
       "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
@@ -21527,7 +21447,7 @@
         "30,Theo,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 22,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21554,7 +21474,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: 11pt;\"><b><span style=\"font-size: 16pt;\">Rückenfit</span></b></p><p style=\"font-size: 11pt;\"><b></b></p><p style=\"font-size: 11pt;\"><span class=\"ng-binding\">Ein gesunder Rücken kennt keine Schmerzen! Deshalb geht es in diesem Kurs darum, die Rumpf- und Beinmuskulatur zu dehnen, zu kräftigen und sie beweglich zu machen. Die Wirbelsäule wird aktiv entlastet, Gleichgewicht und Geschicklichkeit werden mit Hilfe von Kleingeräten trainiert und die Haltung geschult.</span></p><p style=\"font-size: 12px;\"><br/><br/><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21583,8 +21503,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 3,
-      "BuchungszeitraumDate": "2026-04-21T07:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 118985,
@@ -21599,7 +21518,7 @@
         "30,Theo,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c5e0",
@@ -21626,7 +21545,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/></p><p><font size=\"4\"><br/></font></p><!--StartFragment--><p><strong><font size=\"4\">FlexFit – Dein Kurs für mehr Flexibilität &amp; Mobilität</font></strong></p><p><font size=\"4\">Steigere deine Beweglichkeit und bringe deinen Körper in Bestform mit „FlexFit“ – dem Kurs, der Flexibilität und Mobilität kombiniert, um dich zu mehr Freiheit in deinen Bewegungen zu verhelfen!</font></p><p><font size=\"4\">Egal, ob du steif aus dem Büro kommst, deine Beweglichkeit verbessern möchtest oder einfach fitter und beweglicher im Alltag sein willst: In „FlexFit“ lernst du, wie du deine Gelenke, Muskeln und Faszien gezielt dehnst und mobilisierst. Durch speziell entwickelte Übungen stärkst du nicht nur deine Flexibilität, sondern auch deine Körperhaltung, deine Bewegungsfreiheit und deine allgemeine Fitness.</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Warum FlexFit?</font></strong></p><ul><li><font size=\"4\">Steigere deine Bewegungsfreiheit und beuge Verletzungen vor.</font></li><li><font size=\"4\">Erlebe weniger Verspannungen und Schmerzen im Alltag.</font></li><li><font size=\"4\">Fühle dich fitter, dynamischer und energiegeladener.</font></li><li><font size=\"4\">Perfekt für alle Fitnesslevels – von Anfängern bis Fortgeschrittenen.</font></li></ul><!--EndFragment--><p><br/></p><p><br/></p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21655,8 +21574,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
-      "BuchungszeitraumDate": "2026-04-21T07:55:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 101702,
@@ -21671,8 +21589,8 @@
         "239,Marlene,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 28,
-      "WLTeilnehmer": 3,
+      "Teilnehmer": 27,
+      "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -21698,7 +21616,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style=\"font-size: medium;\">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style=\"font-size: medium;\"><b><br/></b></p><p style=\"font-size: medium;\"><b>AQUA FIT / AQUA POWER</b></p><p style=\"font-size: medium;\"></p><p style=\"font-size: medium;\">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert, aber auch die Muskulatur gekräftigt.</p><p style=\"font-size: medium;\"><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style=\"font-size: medium;\"><b></b></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21727,8 +21645,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 0,
-      "AufWartelisteSetzen": true
+      "FreiePlaetze": 1
     },
     {
       "Nr": 119034,
@@ -21743,7 +21660,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 8,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21770,7 +21687,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p><b><font size=\"3\"></font></b></p><p><br/><br/><!--StartFragment--><span style=\"font-size: large;float: none;\">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7, H9)</span><!--EndFragment--><br/><br/><br/><span style=\"font-size: medium;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden.</span><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><br/></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\">Mit der Anmeldung zum Kurs bekommst du eine Bestätigungsmail, die einen Link enthält, mit der du deinen Polargurt direkt für den Kurs anmelden kannst. </span><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><b><br/></b></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><b>Cycle</b></span></p><div style=\"font-size: 12px;\"><font size=\"3\" color=\"#000000\"><b></b></font><p style=\"font-size: medium;\">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p></div><!--EndFragment--><p><br/></p><p><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><p><span style=\"font-size: 12.0pt;\"></span></p><p></p><p></p><p><br/></p><p></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br style=\"font-size: 12px;\"/></p><p><br/></p><p></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><br/></span></p><p style=\"font-size: 12px;\"><br/></p><div><p><br/></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21799,8 +21716,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 12,
-      "BuchungszeitraumDate": "2026-04-21T08:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 101803,
@@ -21816,7 +21732,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 13,
+      "WLTeilnehmer": 9,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -21842,7 +21758,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style=\"font-size: medium;\">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style=\"font-size: medium;\"><b><br/></b></p><p style=\"font-size: medium;\"><b>AQUA FIT / AQUA POWER</b></p><p style=\"font-size: medium;\"></p><p style=\"font-size: medium;\">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert, aber auch die Muskulatur gekräftigt.</p><p style=\"font-size: medium;\"><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style=\"font-size: medium;\"><b></b></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21887,7 +21803,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 4,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21914,7 +21830,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p><b style=\"font-size: medium;\">ZUMBA®</b></p><p><b style=\"font-size: medium;\"><br/></b></p><p style=\"font-size: medium;\"><span style=\"font-size: 16px;\"><!--StartFragment--><span style=\"font-size: medium;float: none;\">ZUMBA® ist ein lateinamerikanisch inspiriertes Tanzfitness Workout das sich aus lateinamerikanischen und internationalen Musik und Tanzbewegungen zusammensetzt - ein dynamisches, begeisterndes und effektives Fitnesssystem! In diesem Workout-Format sind schnelle und langsame Rhythmen auf der Basis von Aerobic kombiniert, um eine einzigartige Balance von Muskelaufbau und –definition zu ermöglichen!</span><!--EndFragment--><br/><br/></span></p><p style=\"font-size: medium;\"><span style=\"font-size: 16px;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><p style=\"font-size: medium;\"></p><p><br/></p><p></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -21943,8 +21859,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 21,
-      "BuchungszeitraumDate": "2026-04-21T15:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 119083,
@@ -21959,7 +21874,7 @@
         "185,TIMO,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 12,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21986,7 +21901,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\"></font></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p style=\"font-size: 12px;\"><font size=\"3\"><b>BBP</b></font></p><p style=\"font-size: 12px;\"><font size=\"3\">Der Kurs-Klassiker „Bauch Beine Po“, kurz BBP, steht für intensives Kraftausdauertraining, welches den Bauch strafft, die Oberschenkel festigt und die Gesäßmuskulatur in Topform bringt.</font></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><span style=\"font-size: medium;float: none;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. </span></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -22015,8 +21930,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13,
-      "BuchungszeitraumDate": "2026-04-21T15:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 119180,
@@ -22031,7 +21945,7 @@
         "164,SARAH,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 11,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22058,7 +21972,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\">POUND Fitness</font></p><p><font size=\"3\">Das vermutlich aufregendste Ganzkörpertraining, das in den letzten Jahren die Kursräume gefüllt hat. Es ist eine Kombination aus Ausdauer-, Konditions- und Krafttraining. Die Bewegungen kommen unter anderem aus dem Yoga oder Pilates und werden zu einer rasanten, aerobicähnlichen Stunde mit mitreißenden Beats kombiniert. Der Rhythmus von genialem Superstar-Rock motiviert und trägt Dich durch die Stunde, die mit Drumstick-ähnlichen Trainingsgeräten zum echten Erlebnis wird. Die 60 minütige Stunde verbrennt mehr als 900 kcal, baut ungemein Stress ab und die verwendeten Muskeln werden athletisch geformt. </font><br/></p><p><br/></p><p></p><p><br/></p><!--StartFragment--><p><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p><p style=\"font-size: 12px;\"><font size=\"2\"></font></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p><!--EndFragment--><p><br/></p><p><br/></p><p><font size=\"2\"></font></p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -22087,7 +22001,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9
+      "FreiePlaetze": 20
     },
     {
       "Nr": 101908,
@@ -22103,7 +22017,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 17,
+      "WLTeilnehmer": 8,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -22129,7 +22043,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: medium;\">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style=\"font-size: medium;\"><b><br/></b></p><p style=\"font-size: medium;\"><b>AQUA FIT </b></p><p style=\"font-size: medium;\">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert, aber auch die Muskulatur gekräftigt.</p><p style=\"font-size: medium;\"><br/></p><p><br/></p><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -22174,7 +22088,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 17,
+      "Teilnehmer": 14,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22201,7 +22115,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p><b><font size=\"3\"></font></b></p><p><br/><br/><!--StartFragment--><span style=\"font-size: large;float: none;\">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7, H9)</span><!--EndFragment--><br/><br/><br/><span style=\"font-size: medium;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden.</span><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><br/></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\">Mit der Anmeldung zum Kurs bekommst du eine Bestätigungsmail, die einen Link enthält, mit der du deinen Polargurt direkt für den Kurs anmelden kannst. </span><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><b><br/></b></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><b>Cycle</b></span></p><div style=\"font-size: 12px;\"><font size=\"3\" color=\"#000000\"><b></b></font><p style=\"font-size: medium;\">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p></div><!--EndFragment--><p><br/></p><p><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><p><span style=\"font-size: 12.0pt;\"></span></p><p></p><p></p><p><br/></p><p></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br style=\"font-size: 12px;\"/></p><p><br/></p><p></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><br/></span></p><p style=\"font-size: 12px;\"><br/></p><div><p><br/></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -22230,8 +22144,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 3,
-      "BuchungszeitraumDate": "2026-04-21T16:05:00.000Z"
+      "FreiePlaetze": 6
     },
     {
       "Nr": 116090,
@@ -22246,7 +22159,7 @@
         "204,SEBASTIAN,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 12,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22273,7 +22186,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Vinyasa Yoga (Mittel bis Schwer) </font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Dieser dynamische Vinyasa-Yogakurs richtet sich an alle, die bereits Yogaerfahrung mitbringen und ihre Praxis vertiefen möchten. Sebastian führt dich durch fließende Bewegungsabfolgen, in denen Atmung und Bewegung präzise miteinander verbunden werden. Der Fokus liegt auf kraftvollen Übergängen, herausfordernden Asanas und der bewussten Ausrichtung des Körpers.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Durch kreative Sequenzen, Balancehaltungen und intensivere Kräftigungsübungen stärkst du nicht nur deine Muskulatur, sondern schulst auch Konzentration und Körperbewusstsein. Gleichzeitig bleibt Raum für innere Ruhe und Achtsamkeit – ein ausgewogenes Zusammenspiel aus Anstrengung und Loslassen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Ideal für Yogis, die ihre körperliche Praxis erweitern, ihre Grenzen achtsam ausloten und ein dynamisches, inspirierendes Training suchen.</font></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><p><br/></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -22302,8 +22215,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13,
-      "BuchungszeitraumDate": "2026-04-21T17:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 117902,
@@ -22318,7 +22230,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 8,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22374,7 +22286,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-22T07:00:00.000Z"
     },
     {
@@ -22390,7 +22302,7 @@
         "115,GABY,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 17,
+      "Teilnehmer": 15,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22446,7 +22358,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 8,
+      "FreiePlaetze": 10,
       "BuchungszeitraumDate": "2026-04-22T07:00:00.000Z"
     },
     {
@@ -22463,7 +22375,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 25,
-      "WLTeilnehmer": 4,
+      "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -22535,7 +22447,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 18,
       "Teilnehmer": 18,
-      "WLTeilnehmer": 8,
+      "WLTeilnehmer": 3,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -22606,7 +22518,7 @@
         "108,Kursraum 1,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 4,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22662,7 +22574,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 21,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-22T15:00:00.000Z"
     },
     {
@@ -22678,7 +22590,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 12,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22734,7 +22646,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 13,
       "BuchungszeitraumDate": "2026-04-22T15:00:00.000Z"
     },
     {
@@ -22750,7 +22662,7 @@
         "108,Kursraum 1,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 6,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22806,7 +22718,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-04-22T15:30:00.000Z"
     },
     {
@@ -22822,7 +22734,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 17,
+      "Teilnehmer": 21,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22878,7 +22790,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 8,
+      "FreiePlaetze": 4,
       "BuchungszeitraumDate": "2026-04-22T16:00:00.000Z"
     },
     {
@@ -22894,7 +22806,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 5,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22950,7 +22862,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 12,
       "BuchungszeitraumDate": "2026-04-22T16:00:00.000Z"
     },
     {
@@ -22966,7 +22878,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 1,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23022,7 +22934,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-04-22T17:00:00.000Z"
     },
     {
@@ -23111,7 +23023,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 25,
-      "WLTeilnehmer": 0,
+      "WLTeilnehmer": 2,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -23182,7 +23094,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 5,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
@@ -23238,7 +23150,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-04-23T07:30:00.000Z"
     },
     {
@@ -23255,7 +23167,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 7,
+      "WLTeilnehmer": 5,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -23326,7 +23238,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 10,
+      "Teilnehmer": 12,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23382,7 +23294,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 10,
+      "FreiePlaetze": 8,
       "BuchungszeitraumDate": "2026-04-23T08:00:00.000Z"
     },
     {
@@ -23399,7 +23311,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 2,
+      "WLTeilnehmer": 3,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -23471,7 +23383,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 8,
+      "WLTeilnehmer": 10,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -23542,7 +23454,7 @@
         "112,KATHRIN,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 12,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23598,7 +23510,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 13,
       "BuchungszeitraumDate": "2026-04-23T15:00:00.000Z"
     },
     {
@@ -23614,7 +23526,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 11,
+      "Teilnehmer": 12,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23670,7 +23582,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 14,
+      "FreiePlaetze": 13,
       "BuchungszeitraumDate": "2026-04-23T16:00:00.000Z"
     },
     {
@@ -23758,7 +23670,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 4,
+      "Teilnehmer": 5,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23814,7 +23726,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16
+      "FreiePlaetze": 15
     },
     {
       "Nr": 119988,
@@ -23829,7 +23741,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 5,
+      "Teilnehmer": 7,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23885,7 +23797,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-04-23T17:00:00.000Z"
     },
     {
@@ -23901,7 +23813,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 15,
+      "Teilnehmer": 16,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23957,7 +23869,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 10,
+      "FreiePlaetze": 9,
       "BuchungszeitraumDate": "2026-04-24T08:30:00.000Z"
     },
     {
@@ -23973,7 +23885,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 16,
+      "Teilnehmer": 18,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24029,7 +23941,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9,
+      "FreiePlaetze": 7,
       "BuchungszeitraumDate": "2026-04-24T09:30:00.000Z"
     },
     {
@@ -24046,7 +23958,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 11,
+      "WLTeilnehmer": 12,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -24117,7 +24029,7 @@
         "159,PETRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 9,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24173,7 +24085,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16,
+      "FreiePlaetze": 15,
       "BuchungszeitraumDate": "2026-04-24T14:15:00.000Z"
     },
     {
@@ -24189,7 +24101,7 @@
         "165,ANTONIA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 14,
+      "Teilnehmer": 16,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24245,7 +24157,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 11,
+      "FreiePlaetze": 9,
       "BuchungszeitraumDate": "2026-04-25T08:00:00.000Z"
     },
     {
@@ -24261,7 +24173,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 8,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24317,7 +24229,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 12,
+      "FreiePlaetze": 10,
       "BuchungszeitraumDate": "2026-04-25T08:00:00.000Z"
     },
     {
@@ -24333,7 +24245,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 6,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24389,7 +24301,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19
+      "FreiePlaetze": 17
     },
     {
       "Nr": 115753,
@@ -24405,7 +24317,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 6,
+      "WLTeilnehmer": 9,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -24477,7 +24389,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 7,
+      "WLTeilnehmer": 11,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -24548,7 +24460,7 @@
         "174,EVE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 11,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24604,7 +24516,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-04-26T08:00:00.000Z"
     },
     {
@@ -24620,7 +24532,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 4,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24676,7 +24588,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16,
+      "FreiePlaetze": 12,
       "BuchungszeitraumDate": "2026-04-26T08:00:00.000Z"
     },
     {
@@ -24693,7 +24605,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 17,
+      "WLTeilnehmer": 19,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -24836,7 +24748,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 1,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24892,7 +24804,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-04-27T07:00:00.000Z"
     },
     {
@@ -24908,7 +24820,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 16,
+      "Teilnehmer": 19,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24964,7 +24876,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9
+      "FreiePlaetze": 6
     },
     {
       "Nr": 117112,
@@ -24979,7 +24891,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 1,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25035,7 +24947,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 24,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-27T15:00:00.000Z"
     },
     {
@@ -25051,7 +24963,7 @@
         "82,DANNI,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25107,7 +25019,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-04-27T15:30:00.000Z"
     },
     {
@@ -25123,7 +25035,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 5,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25179,7 +25091,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-27T15:30:00.000Z"
     },
     {
@@ -25195,7 +25107,7 @@
         "168,ÖZGÜL,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 1,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25251,14 +25163,14 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 24,
+      "FreiePlaetze": 23,
       "BuchungszeitraumDate": "2026-04-27T16:30:00.000Z"
     },
     {
       "Nr": 123129,
       "Start": "2026-05-04T17:20:00.000Z",
       "Ende": "2026-05-04T18:20:00.000Z",
-      "Bezeichnung": "Cycle - Hannah Montana x HSM",
+      "Bezeichnung": "Cycle - Dance / Electro",
       "Terminart_Nr": 386,
       "SerienterminNr": 1612,
       "BlockIstFrei": 0,
@@ -25267,7 +25179,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 2,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25293,7 +25205,7 @@
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Special Dates im April:</font></strong></p><ul><font size=\"4\"><br/></font><li><font size=\"4\"><strong>02.04. – After Work Club (Dance / Electro)</strong><br/>Perfekt, um den Arbeitstag hinter dir zu lassen und mit treibenden Beats nochmal richtig aufzudrehen.</font></li><li><font size=\"4\"><strong>13.04. – Special Ride (EDM / Eurodance)</strong><br/>Freu dich auf ein elektrisierendes Set voller Festival-Vibes und nostalgischer Eurodance-Hits.</font></li><li><font size=\"4\"><strong>20.04. – After Work Club (Dance / Electro)</strong><br/>Noch einmal gemeinsam auspowern und den Feierabend feiern!</font></li><li><font size=\"4\"><strong>27.04. – Hannah Montana / High School Musical</strong><br/>Sing mit, fühl dich zurückversetzt und erlebe eine spaßige Ride-Session voller Throwback-Hits.<br/></font></li><font size=\"4\"><br/></font></ul><p><strong><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></strong></p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p class=\"isSelectedEnd\"><strong><span><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></span></strong></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></span></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></span></p><p class=\"isSelectedEnd\"><font size=\"4\"><strong><span>Special Dates im Mai:</span></strong><br/><span>04.05. – Dance / Electro</span><br/><span>Starte mit treibenden Beats in den Mai und bring dein Energielevel direkt nach oben!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>18.05. – Bieberchella</span><br/><span>Freu dich auf ein Ride voller Hits von Justin Bieber und Festival-Feeling pur – good vibes garantiert!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>25.05. – Dance / Electro</span><br/><span>Noch einmal auspowern zu starken Electro-Sounds und gemeinsam den Frühling feiern!</span></font></p><p><span><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></span></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
@@ -25323,7 +25235,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 18,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-04-27T17:20:00.000Z"
     },
     {
@@ -25412,7 +25324,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 2,
+      "WLTeilnehmer": 8,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -25483,7 +25395,7 @@
         "30,Theo,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 16,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25513,7 +25425,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -25539,7 +25451,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 9,
       "BuchungszeitraumDate": "2026-04-28T07:00:00.000Z"
     },
     {
@@ -25555,7 +25467,7 @@
         "30,Theo,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 7,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c5e0",
@@ -25585,7 +25497,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -25611,7 +25523,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-04-28T07:55:00.000Z"
     },
     {
@@ -25627,8 +25539,8 @@
         "237,Khyrstyna,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
+      "Teilnehmer": 28,
+      "WLTeilnehmer": 4,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -25657,7 +25569,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 107,
@@ -25683,8 +25595,8 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 28,
-      "BuchungszeitraumDate": "2026-04-28T08:00:00.000Z"
+      "FreiePlaetze": 0,
+      "AufWartelisteSetzen": true
     },
     {
       "Nr": 119035,
@@ -25699,7 +25611,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25729,7 +25641,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 129,
@@ -25755,7 +25667,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-28T08:00:00.000Z"
     },
     {
@@ -25771,8 +25683,8 @@
         "237,Khyrstyna,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
+      "Teilnehmer": 28,
+      "WLTeilnehmer": 2,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -25801,7 +25713,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 107,
@@ -25827,8 +25739,8 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 28,
-      "BuchungszeitraumDate": "2026-04-28T08:30:00.000Z"
+      "FreiePlaetze": 0,
+      "AufWartelisteSetzen": true
     },
     {
       "Nr": 107175,
@@ -25873,7 +25785,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 235,
@@ -25945,7 +25857,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -25987,7 +25899,7 @@
         "164,SARAH,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26043,7 +25955,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20
+      "FreiePlaetze": 18
     },
     {
       "Nr": 101909,
@@ -26058,8 +25970,8 @@
         "8,Chris,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
+      "Teilnehmer": 28,
+      "WLTeilnehmer": 17,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -26088,7 +26000,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 107,
@@ -26114,8 +26026,8 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 28,
-      "BuchungszeitraumDate": "2026-04-28T16:00:00.000Z"
+      "FreiePlaetze": 0,
+      "AufWartelisteSetzen": true
     },
     {
       "Nr": 119230,
@@ -26130,7 +26042,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26160,7 +26072,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 249,
@@ -26186,7 +26098,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-04-28T16:05:00.000Z"
     },
     {
@@ -26202,7 +26114,7 @@
         "204,SEBASTIAN,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26232,7 +26144,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -26258,7 +26170,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 22,
       "BuchungszeitraumDate": "2026-04-28T17:00:00.000Z"
     },
     {
@@ -29274,7 +29186,7 @@
       "Nr": 123130,
       "Start": "2026-05-11T17:20:00.000Z",
       "Ende": "2026-05-11T18:20:00.000Z",
-      "Bezeichnung": "Cycle - Hannah Montana x HSM",
+      "Bezeichnung": "Cycle - Dance / Electro",
       "Terminart_Nr": 386,
       "SerienterminNr": 1612,
       "BlockIstFrei": 0,
@@ -29309,7 +29221,7 @@
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Special Dates im April:</font></strong></p><ul><font size=\"4\"><br/></font><li><font size=\"4\"><strong>02.04. – After Work Club (Dance / Electro)</strong><br/>Perfekt, um den Arbeitstag hinter dir zu lassen und mit treibenden Beats nochmal richtig aufzudrehen.</font></li><li><font size=\"4\"><strong>13.04. – Special Ride (EDM / Eurodance)</strong><br/>Freu dich auf ein elektrisierendes Set voller Festival-Vibes und nostalgischer Eurodance-Hits.</font></li><li><font size=\"4\"><strong>20.04. – After Work Club (Dance / Electro)</strong><br/>Noch einmal gemeinsam auspowern und den Feierabend feiern!</font></li><li><font size=\"4\"><strong>27.04. – Hannah Montana / High School Musical</strong><br/>Sing mit, fühl dich zurückversetzt und erlebe eine spaßige Ride-Session voller Throwback-Hits.<br/></font></li><font size=\"4\"><br/></font></ul><p><strong><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></strong></p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p class=\"isSelectedEnd\"><strong><span><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></span></strong></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></span></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></span></p><p class=\"isSelectedEnd\"><font size=\"4\"><strong><span>Special Dates im Mai:</span></strong><br/><span>04.05. – Dance / Electro</span><br/><span>Starte mit treibenden Beats in den Mai und bring dein Energielevel direkt nach oben!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>18.05. – Bieberchella</span><br/><span>Freu dich auf ein Ride voller Hits von Justin Bieber und Festival-Feeling pur – good vibes garantiert!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>25.05. – Dance / Electro</span><br/><span>Noch einmal auspowern zu starken Electro-Sounds und gemeinsam den Frühling feiern!</span></font></p><p><span><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></span></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
@@ -30003,7 +29915,7 @@
         "164,SARAH,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -30059,7 +29971,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20
+      "FreiePlaetze": 19
     },
     {
       "Nr": 101910,
@@ -31070,16 +30982,88 @@
       "BuchungszeitraumDate": "2026-05-06T17:00:00.000Z"
     },
     {
-      "Nr": 119794,
-      "Start": "2026-05-14T07:00:00.000Z",
-      "Ende": "2026-05-14T07:55:00.000Z",
-      "Bezeichnung": "Rücken-Fit",
-      "Terminart_Nr": 234,
-      "SerienterminNr": 1557,
+      "Nr": 123624,
+      "Start": "2026-05-14T08:30:00.000Z",
+      "Ende": "2026-05-14T09:15:00.000Z",
+      "Bezeichnung": "Aqua Fit",
+      "Terminart_Nr": 263,
+      "SerienterminNr": 0,
       "BlockIstFrei": 0,
       "Ressourcen": [
-        "108,Kursraum 1,0",
-        "117,ALEX (w),1"
+        "107,Aktivbecken,0",
+        "220,SABINE,1"
+      ],
+      "MaximaleAnzahlTeilnehmer": 28,
+      "Teilnehmer": 0,
+      "WLTeilnehmer": 0,
+      "BWLTeilnehmer": 0,
+      "Farbe": "#58c4e0",
+      "Altersbeschraenkung": 0,
+      "Buchungszeitraum": 0,
+      "BuchungszeitraumInTagen": 7,
+      "BuchungszeitraumBisInStunden": 1,
+      "UhrzeitEinschraenkung": null,
+      "PreisZahl": 0,
+      "IstKostenfreiAnzeige": 0,
+      "Warteliste": 1,
+      "IstEinzeltermin": 0,
+      "OnlineBuchbar": "nein",
+      "IstKurs": 1,
+      "AlsKursBuchbar": 1,
+      "IstBlockkurs": 0,
+      "BlockAnzahlTermine": null,
+      "Blocktyp": null,
+      "WartelisteMax": 20,
+      "KursbuchungAktiv": 0,
+      "Bezahlung": 1,
+      "MitgliedsOptionKurse": 2,
+      "MitgliedsOptionBlockkurse": 0,
+      "NutzungsrechteMeldung": null,
+      "TerminartNutzungsrechte": "",
+      "Infotext": "<p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: medium;\">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style=\"font-size: medium;\"><b><br/></b></p><p style=\"font-size: medium;\"><b>AQUA FIT </b></p><p style=\"font-size: medium;\">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert, aber auch die Muskulatur gekräftigt.</p><p style=\"font-size: medium;\"><br/></p><p><br/></p><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p>",
+      "Stattgefunden": false,
+      "NichtBuchbar": false,
+      "Ausgebucht": false,
+      "AusserhalbBuchungszeitraum": true,
+      "AllRessources": [
+        {
+          "Id": 107,
+          "Mitarbeiter": 0,
+          "Bezeichnung": "Aktivbecken"
+        },
+        {
+          "Id": 220,
+          "Mitarbeiter": 1,
+          "Bezeichnung": "SABINE"
+        }
+      ],
+      "RessourcesNrs": [
+        107,
+        220
+      ],
+      "MitarbeiterRessourcen": [
+        {
+          "Id": 220,
+          "Mitarbeiter": 1,
+          "Bezeichnung": "SABINE"
+        }
+      ],
+      "NichtMitarbeiterRessourcen": [],
+      "AllTerminartNutzungsrechte": [],
+      "FreiePlaetze": 28,
+      "BuchungszeitraumDate": "2026-05-07T08:30:00.000Z"
+    },
+    {
+      "Nr": 123626,
+      "Start": "2026-05-14T08:30:00.000Z",
+      "Ende": "2026-05-14T09:25:00.000Z",
+      "Bezeichnung": "Rücken-Fit",
+      "Terminart_Nr": 234,
+      "SerienterminNr": 0,
+      "BlockIstFrei": 0,
+      "Ressourcen": [
+        "159,PETRA,1",
+        "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 0,
@@ -31115,49 +31099,49 @@
       "AusserhalbBuchungszeitraum": true,
       "AllRessources": [
         {
-          "Id": 108,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
+          "Id": 159,
+          "Mitarbeiter": 1,
+          "Bezeichnung": "PETRA"
         },
         {
-          "Id": 117,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
+          "Id": 77,
+          "Mitarbeiter": 0,
+          "Bezeichnung": "Kursraum 2"
         }
       ],
       "RessourcesNrs": [
-        108,
-        117
+        159,
+        77
       ],
       "MitarbeiterRessourcen": [
         {
-          "Id": 117,
+          "Id": 159,
           "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
+          "Bezeichnung": "PETRA"
         }
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
       "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-05-07T07:00:00.000Z"
+      "BuchungszeitraumDate": "2026-05-07T08:30:00.000Z"
     },
     {
-      "Nr": 119892,
-      "Start": "2026-05-14T07:30:00.000Z",
-      "Ende": "2026-05-14T09:00:00.000Z",
-      "Bezeichnung": "Yoga & Klangmeditation",
-      "Terminart_Nr": 279,
-      "SerienterminNr": 1559,
+      "Nr": 123627,
+      "Start": "2026-05-14T09:30:00.000Z",
+      "Ende": "2026-05-14T10:25:00.000Z",
+      "Bezeichnung": "Mobility",
+      "Terminart_Nr": 389,
+      "SerienterminNr": 0,
       "BlockIstFrei": 0,
       "Ressourcen": [
-        "203,NINA,1",
+        "159,PETRA,1",
         "77,Kursraum 2,0"
       ],
-      "MaximaleAnzahlTeilnehmer": 20,
+      "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
-      "Farbe": "#58c4e0",
+      "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
       "Buchungszeitraum": 0,
       "BuchungszeitraumInTagen": 7,
@@ -31173,23 +31157,23 @@
       "IstBlockkurs": 0,
       "BlockAnzahlTermine": null,
       "Blocktyp": null,
-      "WartelisteMax": 15,
+      "WartelisteMax": 0,
       "KursbuchungAktiv": 0,
       "Bezahlung": 1,
       "MitgliedsOptionKurse": 2,
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Yoga &amp; Klangschalenmeditation (Leicht bis Mittel)</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">In diesem besonderen Kurs verbinden sich sanfte Yogaübungen aus dem Hatha Yoga mit der tiefen, beruhigenden Wirkung von Klangschalen. Die harmonischen Schwingungen der Klänge unterstützen dich dabei, loszulassen, in die Entspannung zu sinken und deine Yogapraxis noch bewusster zu erleben.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Die Körperhaltungen (Asanas) werden achtsam aufgebaut und in verschiedenen Variationen gezeigt – so findest du immer die Form, die zu dir passt. Durch ruhige Bewegungsabläufe, bewusstes Atmen und den Klang der Schalen entsteht ein wohltuender Raum für Regeneration, innere Ruhe und neue Energie.</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Was dich erwartet:</font></strong></p><ul><li><p><font size=\"4\">Sanfte, achtsame Hatha Yoga Praxis mit Variationen für jedes Niveau</font></p></li><li><p><font size=\"4\">Tiefe Entspannung durch Klangschalen und geführte Meditation</font></p></li><li><p><font size=\"4\">Förderung von Körperbewusstsein, Balance und innerer Gelassenheit</font></p></li><li><p><font size=\"4\">Eine harmonische Verbindung von Bewegung, Atem und Klang</font></p></li></ul><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><strong>Geeignet für:</strong> Anfänger*innen und leicht Fortgeschrittene, die eine sanfte, zugleich wirkungsvolle Yogaerfahrung suchen und Körper, Geist und Seele in Einklang bringen möchten.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.<br/><br/><br/><br/>Kennst du schon unsere ClubConnector App?<br/><br/>Jetzt wird die Kursbuchung noch einfacher.<br/><br/>1. ClubConnector-App im App-Store runterladen<br/><br/>2. QR Code im Studio einscannen<br/><br/>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren<br/><br/>4. Registrierungscode per SMS erhalten und App abschließend aktivieren<br/><br/>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></font></p><!--EndFragment--><p><font size=\"4\"><br/></font></p><p><br/></p><p><br/></p>",
+      "Infotext": null,
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": true,
       "AllRessources": [
         {
-          "Id": 203,
+          "Id": 159,
           "Mitarbeiter": 1,
-          "Bezeichnung": "NINA"
+          "Bezeichnung": "PETRA"
         },
         {
           "Id": 77,
@@ -31198,34 +31182,34 @@
         }
       ],
       "RessourcesNrs": [
-        203,
+        159,
         77
       ],
       "MitarbeiterRessourcen": [
         {
-          "Id": 203,
+          "Id": 159,
           "Mitarbeiter": 1,
-          "Bezeichnung": "NINA"
+          "Bezeichnung": "PETRA"
         }
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-05-07T07:30:00.000Z"
+      "FreiePlaetze": 25,
+      "BuchungszeitraumDate": "2026-05-07T09:30:00.000Z"
     },
     {
-      "Nr": 119843,
-      "Start": "2026-05-14T08:00:00.000Z",
-      "Ende": "2026-05-14T09:00:00.000Z",
-      "Bezeichnung": "Langhantel",
-      "Terminart_Nr": 213,
-      "SerienterminNr": 1558,
+      "Nr": 123628,
+      "Start": "2026-05-14T09:30:00.000Z",
+      "Ende": "2026-05-14T10:25:00.000Z",
+      "Bezeichnung": "PILATES",
+      "Terminart_Nr": 186,
+      "SerienterminNr": 0,
       "BlockIstFrei": 0,
       "Ressourcen": [
         "108,Kursraum 1,0",
-        "117,ALEX (w),1"
+        "220,SABINE,1"
       ],
-      "MaximaleAnzahlTeilnehmer": 20,
+      "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
@@ -31233,7 +31217,7 @@
       "Altersbeschraenkung": 0,
       "Buchungszeitraum": 0,
       "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 0,
+      "BuchungszeitraumBisInStunden": 1,
       "UhrzeitEinschraenkung": null,
       "PreisZahl": 0,
       "IstKostenfreiAnzeige": 0,
@@ -31245,14 +31229,14 @@
       "IstBlockkurs": 0,
       "BlockAnzahlTermine": null,
       "Blocktyp": null,
-      "WartelisteMax": 15,
+      "WartelisteMax": 0,
       "KursbuchungAktiv": 0,
       "Bezahlung": 1,
       "MitgliedsOptionKurse": 2,
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><b><font size=\"3\"></font></b></p><p><b><font size=\"3\"></font></b></p><p>​</p><p><br/></p><!--StartFragment--><p><font size=\"3\">Langhantel</font></p><p><font size=\"3\">In diesem Kurs absolvieren wir ein forderndes Kraftausdauertraining mit der Langhantel. Übungen wie Du sie von Bodybuildern kennst, werden kursgerecht modifiziert und zum Beat der Musik ausgeführt. Lass Dich vom Rhythmus motivieren und schaffe so auch noch die letzten Wiederholungen! Gib alles, für einen starken Rücken, definierte Beine und wohlgeformte Schultern und Bauchmuskeln.</font></p><p><br/></p><!--EndFragment--><p><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/><br/></p><p><br/></p><p><font size=\"2\"></font></p><!--EndFragment--><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: 14px;text-align: center;\"><b><font size=\"6\">Kursanmeldung</font></b></p><p style=\"font-size: 14px;text-align: center;\"><b></b></p><p style=\"font-size: 14px;text-align: center;\"><b>​</b></p><p style=\"font-size: 14px;text-align: center;\"></p><p style=\"font-size: 14px;text-align: center;\">Klicke oben auf <b>Login</b><sup style=\"font-size: 10.5px;vertical-align: baseline;\"><b>1</b></sup>, wenn Du <b>Mitglied </b>bist.  ​</p><p style=\"font-size: 14px;text-align: center;\"><br/></p><p style=\"font-size: 14px;text-align: center;\"><b>Login</b><sup style=\"font-size: 10.5px;vertical-align: baseline;\"><b>1</b></sup>: Vertragsemail eingeben und Aktivierungscode per E-Mail erhalten.</p><p style=\"font-size: 14px;text-align: center;\"><b>Login</b><sup style=\"font-size: 10.5px;vertical-align: baseline;\"><b>1</b></sup>: Code eingeben und Passwort erhalten.</p><p style=\"font-size: 14px;text-align: center;\"></p><p style=\"font-size: 14px;text-align: center;\">Logge Dich jetzt mit Deinen Zugangsdaten ein und buche Deinen Kurs.</p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p><b style=\"font-size: medium;\">Pilates</b><br/></p><p><br/></p><p></p><p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: medium;\">Ein Workout, in dem Atemtechnik, Kraftübungen, Koordination und Stretching Bestand haben. Durch diese Verbindung wird Pilates zu einem ganzheitlichen Training für jeden Teilnehmer. In einer Pilates Einheit wird der ganze Körper systematisch trainiert.</p><p style=\"font-size: medium;\"><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
@@ -31264,26 +31248,26 @@
           "Bezeichnung": "Kursraum 1"
         },
         {
-          "Id": 117,
+          "Id": 220,
           "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
+          "Bezeichnung": "SABINE"
         }
       ],
       "RessourcesNrs": [
         108,
-        117
+        220
       ],
       "MitarbeiterRessourcen": [
         {
-          "Id": 117,
+          "Id": 220,
           "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
+          "Bezeichnung": "SABINE"
         }
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-05-07T08:00:00.000Z"
+      "FreiePlaetze": 25,
+      "BuchungszeitraumDate": "2026-05-07T09:30:00.000Z"
     },
     {
       "Nr": 123269,
@@ -31427,293 +31411,6 @@
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
       "FreiePlaetze": 25
-    },
-    {
-      "Nr": 117393,
-      "Start": "2026-05-14T15:00:00.000Z",
-      "Ende": "2026-05-14T15:55:00.000Z",
-      "Bezeichnung": "PILATES",
-      "Terminart_Nr": 186,
-      "SerienterminNr": 1481,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "108,Kursraum 1,0",
-        "114,SANDRA,1"
-      ],
-      "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#57c4e0",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 1,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 0,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p><b style=\"font-size: medium;\">Pilates</b><br/></p><p><br/></p><p></p><p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: medium;\">Ein Workout, in dem Atemtechnik, Kraftübungen, Koordination und Stretching Bestand haben. Durch diese Verbindung wird Pilates zu einem ganzheitlichen Training für jeden Teilnehmer. In einer Pilates Einheit wird der ganze Körper systematisch trainiert.</p><p style=\"font-size: medium;\"><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
-      "AllRessources": [
-        {
-          "Id": 108,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
-        },
-        {
-          "Id": 114,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "SANDRA"
-        }
-      ],
-      "RessourcesNrs": [
-        108,
-        114
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 114,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "SANDRA"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-05-07T15:00:00.000Z"
-    },
-    {
-      "Nr": 117446,
-      "Start": "2026-05-14T16:00:00.000Z",
-      "Ende": "2026-05-14T16:55:00.000Z",
-      "Bezeichnung": "Rücken-Fit_",
-      "Terminart_Nr": 138,
-      "SerienterminNr": 1482,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "108,Kursraum 1,0",
-        "117,ALEX (w),1"
-      ],
-      "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#57c4e0",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 0,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 0,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"3\"></font></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p></p><p><span style=\"font-size: medium;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. </span><br/></p><p><br/></p><p style=\"font-size: 11pt;\"><b><span style=\"font-size: 16pt;\">Rückenfit</span></b></p><p style=\"font-size: 11pt;\"><b></b></p><p></p><p style=\"font-size: 11pt;\"><span class=\"ng-binding\">Ein gesunder Rücken kennt keine Schmerzen! Deshalb geht es in diesem Kurs darum, die Rumpf- und Beinmuskulatur zu dehnen, zu kräftigen und sie beweglich zu machen. Die Wirbelsäule wird aktiv entlastet, Gleichgewicht und Geschicklichkeit werden mit Hilfe von Kleingeräten trainiert und die Haltung geschult.</span></p><p style=\"font-size: 11pt;\"></p><p><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p></p><p></p><p></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
-      "AllRessources": [
-        {
-          "Id": 108,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
-        },
-        {
-          "Id": 117,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
-        }
-      ],
-      "RessourcesNrs": [
-        108,
-        117
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 117,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-05-07T16:00:00.000Z"
-    },
-    {
-      "Nr": 118344,
-      "Start": "2026-05-14T17:00:00.000Z",
-      "Ende": "2026-05-14T18:15:00.000Z",
-      "Bezeichnung": "CYCLE (75 min.)",
-      "Terminart_Nr": 187,
-      "SerienterminNr": 1507,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "128,MELANIE,1",
-        "77,Kursraum 2,0"
-      ],
-      "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#57c4e0",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": null,
-      "BuchungszeitraumBisInStunden": 1,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 0,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p><b><font size=\"3\"></font></b></p><p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: 12px;\"><span style=\"font-size: large;float: none;\">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7, H9)</span></p><p style=\"font-size: 12px;\"><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. </span><br/></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\"><br/></span></p><p style=\"font-size: 12px;\"><span style=\"font-size: medium;float: none;\">Mit der Anmeldung zum Kurs bekommst du eine Bestätigungsmail, die einen Link enthält, mit der du deinen Polargurt direkt für den Kurs anmelden kannst. </span><br/></p><p style=\"font-size: 12px;\"><br/></p><p style=\"font-size: 12px;\"><b>​<span style=\"font-size: medium;float: none;\">Cycle</span></b></p><p style=\"font-size: medium;\">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p><!--EndFragment--><p><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p></p><p><br/></p><p></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p><p style=\"font-size: 12px;\"><font size=\"2\"></font></p><!--EndFragment--><p><br/></p><p><br/></p><p><font size=\"2\"></font></p><!--EndFragment--><p><br/></p><p><br/></p><p><font size=\"2\"></font></p><!--EndFragment--><p><br/></p><p><br/></p><p style=\"font-size: 12px;\"><font size=\"3\"></font></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": false,
-      "AllRessources": [
-        {
-          "Id": 128,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "MELANIE"
-        },
-        {
-          "Id": 77,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 2"
-        }
-      ],
-      "RessourcesNrs": [
-        128,
-        77
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 128,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "MELANIE"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20
-    },
-    {
-      "Nr": 119990,
-      "Start": "2026-05-14T17:00:00.000Z",
-      "Ende": "2026-05-14T18:00:00.000Z",
-      "Bezeichnung": "BBP",
-      "Terminart_Nr": 176,
-      "SerienterminNr": 1560,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "108,Kursraum 1,0",
-        "117,ALEX (w),1"
-      ],
-      "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#57c4e0",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 1,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 0,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"3\"></font></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p style=\"font-size: 12px;\"><font size=\"3\"><b>BBP</b></font></p><p style=\"font-size: 12px;\"><font size=\"3\">Der Kurs-Klassiker „Bauch Beine Po“, kurz BBP, steht für intensives Kraftausdauertraining, welches den Bauch strafft, die Oberschenkel festigt und die Gesäßmuskulatur in Topform bringt.</font></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><span style=\"font-size: medium;float: none;\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. </span></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
-      "AllRessources": [
-        {
-          "Id": 108,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
-        },
-        {
-          "Id": 117,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
-        }
-      ],
-      "RessourcesNrs": [
-        108,
-        117
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 117,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "ALEX (w)"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-05-07T17:00:00.000Z"
     },
     {
       "Nr": 118880,
@@ -33158,7 +32855,7 @@
       "Nr": 123131,
       "Start": "2026-05-18T17:20:00.000Z",
       "Ende": "2026-05-18T18:20:00.000Z",
-      "Bezeichnung": "Cycle - Hannah Montana x HSM",
+      "Bezeichnung": "Cycle - Dance / Electro",
       "Terminart_Nr": 386,
       "SerienterminNr": 1612,
       "BlockIstFrei": 0,
@@ -33193,7 +32890,7 @@
       "MitgliedsOptionBlockkurse": 0,
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
-      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p><strong><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Special Dates im April:</font></strong></p><ul><font size=\"4\"><br/></font><li><font size=\"4\"><strong>02.04. – After Work Club (Dance / Electro)</strong><br/>Perfekt, um den Arbeitstag hinter dir zu lassen und mit treibenden Beats nochmal richtig aufzudrehen.</font></li><li><font size=\"4\"><strong>13.04. – Special Ride (EDM / Eurodance)</strong><br/>Freu dich auf ein elektrisierendes Set voller Festival-Vibes und nostalgischer Eurodance-Hits.</font></li><li><font size=\"4\"><strong>20.04. – After Work Club (Dance / Electro)</strong><br/>Noch einmal gemeinsam auspowern und den Feierabend feiern!</font></li><li><font size=\"4\"><strong>27.04. – Hannah Montana / High School Musical</strong><br/>Sing mit, fühl dich zurückversetzt und erlebe eine spaßige Ride-Session voller Throwback-Hits.<br/></font></li><font size=\"4\"><br/></font></ul><p><strong><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></strong></p><!--EndFragment--><p><br/></p><p><br/></p>",
+      "Infotext": "<p><font size=\"4\"><br/><br/><!--StartFragment--></font></p><p class=\"isSelectedEnd\"><strong><span><font size=\"4\">Cycle mit Maria &#128692;&#8205;♀️&#127926;</font></span></strong></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</font></span></p><p class=\"isSelectedEnd\"><span><font size=\"4\">Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto, das dich durch das Training trägt und für extra Motivation sorgt!</font></span></p><p class=\"isSelectedEnd\"><font size=\"4\"><strong><span>Special Dates im Mai:</span></strong><br/><span>04.05. – Dance / Electro</span><br/><span>Starte mit treibenden Beats in den Mai und bring dein Energielevel direkt nach oben!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>18.05. – Bieberchella</span><br/><span>Freu dich auf ein Ride voller Hits von Justin Bieber und Festival-Feeling pur – good vibes garantiert!</span></font></p><p class=\"isSelectedEnd\"><font size=\"4\"><span>25.05. – Dance / Electro</span><br/><span>Noch einmal auspowern zu starken Electro-Sounds und gemeinsam den Frühling feiern!</span></font></p><p><span><font size=\"4\">Let’s ride, sweat &amp; feel the beat! &#128293;</font></span></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
