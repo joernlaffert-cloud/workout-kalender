@@ -4715,7 +4715,7 @@
         "46,Kursraum 1,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#009cc4",
@@ -4759,7 +4759,7 @@
       "MitarbeiterRessourcen": [],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 24,
       "BuchungszeitraumDate": "2026-05-19T16:00:00.000Z"
     },
     {
@@ -7862,7 +7862,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 46,
@@ -8005,7 +8005,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 115,
@@ -8077,7 +8077,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 130,
@@ -8149,7 +8149,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 139,
@@ -8221,7 +8221,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 46,
@@ -19767,7 +19767,7 @@
         "12,Anna,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 21,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -19794,7 +19794,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"4\"><br/></font></p><div class=\"flex flex-col text-sm pb-25\"><section class=\"text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\"><div class=\"text-base my-auto mx-auto pb-10 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div dir=\"auto\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling\"><p><strong><font size=\"4\">Yoga Relax</font></strong></p><font size=\"4\"><br/></font><p><font size=\"4\">Yoga Relax ist ein sanfter Yogakurs, der Körper und Geist in Einklang bringt und bewusst auf Entspannung und Regeneration ausgerichtet ist. In ruhiger Atmosphäre üben wir langsame, fließende Bewegungen, kombiniert mit achtsamer Atmung und wohltuenden Dehnungen. Der Fokus liegt darauf, Verspannungen zu lösen, Stress abzubauen und neue Energie zu tanken.</font></p><font size=\"4\"><br/></font><p><font size=\"4\">Dieser Kurs ist ideal für alle, die dem hektischen Alltag entfliehen und sich etwas Gutes tun möchten – ganz ohne Leistungsdruck. Sowohl Anfänger als auch Fortgeschrittene sind herzlich willkommen.</font></p><font size=\"4\"><br/></font><p><font size=\"4\">Freue dich auf eine entspannte Auszeit, mehr Gelassenheit und ein verbessertes Körpergefühl. &#129496;&#8205;♀️</font></p></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"></div></div></div></section></div><div class=\"pointer-events-none h-px w-px absolute bottom-0\"></div><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -19823,8 +19823,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 4,
-      "BuchungszeitraumDate": "2026-05-18T08:30:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 123561,
@@ -19839,7 +19838,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 15,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -19866,7 +19865,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p style=\"font-size: medium;\"></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p><span style=\"font-size: large;\">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7, H9)</span><br/></p><p><b style=\"font-size: medium;\"><br/></b></p><p><b style=\"font-size: medium;\">CYCLE</b><br/></p><p style=\"font-size: medium;\"></p><p style=\"font-size: medium;\">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p><p style=\"font-size: medium;\"><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: 12px;\"><br/></p><p style=\"font-size: 12px;\"><br/></p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -19895,8 +19894,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 5,
-      "BuchungszeitraumDate": "2026-05-18T08:30:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 123647,
@@ -19911,7 +19909,7 @@
         "159,PETRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 9,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -19938,7 +19936,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p><b style=\"font-size: medium;\">Pilates</b><br/></p><p><br/></p><p></p><p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: medium;\">Ein Workout, in dem Atemtechnik, Kraftübungen, Koordination und Stretching Bestand haben. Durch diese Verbindung wird Pilates zu einem ganzheitlichen Training für jeden Teilnehmer. In einer Pilates Einheit wird der ganze Körper systematisch trainiert.</p><p style=\"font-size: medium;\"><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -19967,8 +19965,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16,
-      "BuchungszeitraumDate": "2026-05-18T10:05:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 123656,
@@ -19983,7 +19980,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 12,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20010,7 +20007,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\"><br/><br/><!--StartFragment--></font></p><p><font size=\"4\"><em><b><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive – </span><span class=\"BZ_Pyq_fadeIn\">60 </span><span class=\"BZ_Pyq_fadeIn\">Minuten </span><span class=\"BZ_Pyq_fadeIn\">Rhythmus &amp; </span><span class=\"BZ_Pyq_fadeIn\">Fitness</span></b></em><span class=\"BZ_Pyq_fadeIn\"><b> </b></span></font></p><p><font size=\"3\"><br/><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive </span><span class=\"BZ_Pyq_fadeIn\">ist </span><span class=\"BZ_Pyq_fadeIn\">ein </span><span class=\"BZ_Pyq_fadeIn\">energiegeladener </span><span class=\"BZ_Pyq_fadeIn\">Fitnesskurs, </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">einfache </span><span class=\"BZ_Pyq_fadeIn\">Trommelrhythmen </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">dynamischen </span><span class=\"BZ_Pyq_fadeIn\">Bewegungen </span><span class=\"BZ_Pyq_fadeIn\">verbindet. </span><span class=\"BZ_Pyq_fadeIn\">In </span><span class=\"BZ_Pyq_fadeIn\">diesem </span><span class=\"BZ_Pyq_fadeIn\">60-</span><span class=\"BZ_Pyq_fadeIn\">minütigen </span><span class=\"BZ_Pyq_fadeIn\">Workout </span><span class=\"BZ_Pyq_fadeIn\">wird </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">Drumsticks </span><span class=\"BZ_Pyq_fadeIn\">auf </span><span class=\"BZ_Pyq_fadeIn\">Gymnastikbälle </span><span class=\"BZ_Pyq_fadeIn\">getrommelt </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">gleichzeitig </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">ganze </span><span class=\"BZ_Pyq_fadeIn\">Körper </span><span class=\"BZ_Pyq_fadeIn\">aktiviert. </span><span class=\"BZ_Pyq_fadeIn\">Die </span><span class=\"BZ_Pyq_fadeIn\">Kombination </span><span class=\"BZ_Pyq_fadeIn\">aus </span><span class=\"BZ_Pyq_fadeIn\">Musik, </span><span class=\"BZ_Pyq_fadeIn\">Rhythmus </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">funktionellen </span><span class=\"BZ_Pyq_fadeIn\">Übungen </span><span class=\"BZ_Pyq_fadeIn\">fördert </span><span class=\"BZ_Pyq_fadeIn\">Ausdauer, </span><span class=\"BZ_Pyq_fadeIn\">Koordination </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Kraft – </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">macht </span><span class=\"BZ_Pyq_fadeIn\">dabei </span><span class=\"BZ_Pyq_fadeIn\">jede </span><span class=\"BZ_Pyq_fadeIn\">Menge </span><span class=\"BZ_Pyq_fadeIn\">Spaß. &#127926;</span></font></p><p><font size=\"3\"><br/></font></p><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Der </span><span class=\"BZ_Pyq_fadeIn\">Kurs </span><span class=\"BZ_Pyq_fadeIn\">eignet </span><span class=\"BZ_Pyq_fadeIn\">sich </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">alle </span><span class=\"BZ_Pyq_fadeIn\">Fitnesslevels, </span><span class=\"BZ_Pyq_fadeIn\">da </span><span class=\"BZ_Pyq_fadeIn\">die </span><span class=\"BZ_Pyq_fadeIn\">Bewegungen </span><span class=\"BZ_Pyq_fadeIn\">leicht </span><span class=\"BZ_Pyq_fadeIn\">zu </span><span class=\"BZ_Pyq_fadeIn\">erlernen </span><span class=\"BZ_Pyq_fadeIn\">sind </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">individuell </span><span class=\"BZ_Pyq_fadeIn\">angepasst </span><span class=\"BZ_Pyq_fadeIn\">werden </span><span class=\"BZ_Pyq_fadeIn\">können. </span><span class=\"BZ_Pyq_fadeIn\">Neben </span><span class=\"BZ_Pyq_fadeIn\">dem </span><span class=\"BZ_Pyq_fadeIn\">Training </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Herz-</span><span class=\"BZ_Pyq_fadeIn\">Kreislauf </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Muskulatur </span><span class=\"BZ_Pyq_fadeIn\">sorgt </span><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive </span><span class=\"BZ_Pyq_fadeIn\">auch </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Stressabbau </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">gute </span><span class=\"BZ_Pyq_fadeIn\">Laune.</span></font></p><p><font size=\"3\"><br/></font></p><p><strong><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Inhalte </span><span class=\"BZ_Pyq_fadeIn\">des </span><span class=\"BZ_Pyq_fadeIn\">Kurses:</span></font></strong></p><ul><font size=\"3\"><br/></font><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Rhythmisches </span><span class=\"BZ_Pyq_fadeIn\">Trommeln </span><span class=\"BZ_Pyq_fadeIn\">auf </span><span class=\"BZ_Pyq_fadeIn\">Gymnastikbällen </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">Drumsticks </span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Ganzkörper-</span><span class=\"BZ_Pyq_fadeIn\">Workout </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Ausdauer, </span><span class=\"BZ_Pyq_fadeIn\">Kraft </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Koordination</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Einfache </span><span class=\"BZ_Pyq_fadeIn\">Choreografien </span><span class=\"BZ_Pyq_fadeIn\">zu </span><span class=\"BZ_Pyq_fadeIn\">motivierender </span><span class=\"BZ_Pyq_fadeIn\">Musik</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Förderung </span><span class=\"BZ_Pyq_fadeIn\">von </span><span class=\"BZ_Pyq_fadeIn\">Konzentration </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Rhythmusgefühl</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Spaß </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">Gruppe </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">effektiver </span><span class=\"BZ_Pyq_fadeIn\">Stressabbau</span></font></p></li></ul><p><font size=\"3\"><br/><strong><span class=\"BZ_Pyq_fadeIn\">Level:</span></strong><span class=\"BZ_Pyq_fadeIn\"> </span><span class=\"BZ_Pyq_fadeIn\">Für </span><span class=\"BZ_Pyq_fadeIn\">Anfänger </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Fortgeschrittene </span><span class=\"BZ_Pyq_fadeIn\">geeignet</span></font></p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -20039,7 +20036,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 8
+      "FreiePlaetze": 20
     },
     {
       "Nr": 123655,
@@ -20054,7 +20051,7 @@
         "159,PETRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 4,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20081,7 +20078,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -20110,8 +20107,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 21,
-      "BuchungszeitraumDate": "2026-05-18T11:10:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 123657,
@@ -20126,7 +20122,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 11,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20153,7 +20149,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\">Full Body-Fit</font></p><div><font size=\"3\"><br/></font></div><div><font size=\"3\">Dein Workout für den ganzen Körper! Ziel dieses Kurses ist es alle Partien des Körpers zu kräftigen und zu formen. Zu motivierender Musik wirst Du hier aus Deiner Komfortzone gelockt und herausgefordert. Gib alles, aber nur nicht auf! <br/></font><br/><!--StartFragment--><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></div><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><div><br/><br/><p><br/></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><br/><p style=\"font-size: 12px;\"><font size=\"2\"></font></p><!--EndFragment--><br/><br/><br/><br/><p><br/></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -20182,8 +20178,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9,
-      "BuchungszeitraumDate": "2026-05-18T11:15:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 118937,
@@ -20199,7 +20194,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 25,
-      "WLTeilnehmer": 12,
+      "WLTeilnehmer": 6,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -20270,7 +20265,7 @@
         "30,Theo,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 21,
+      "Teilnehmer": 19,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c5e0",
@@ -20326,7 +20321,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 4,
+      "FreiePlaetze": 6,
       "BuchungszeitraumDate": "2026-05-19T07:55:00.000Z"
     },
     {
@@ -20342,7 +20337,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 5,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20398,7 +20393,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 10,
       "BuchungszeitraumDate": "2026-05-19T08:00:00.000Z"
     },
     {
@@ -20414,7 +20409,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 3,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20470,7 +20465,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 22,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-05-19T15:00:00.000Z"
     },
     {
@@ -20486,7 +20481,7 @@
         "185,TIMO,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 5,
+      "Teilnehmer": 7,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20542,7 +20537,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-05-19T15:00:00.000Z"
     },
     {
@@ -20558,7 +20553,7 @@
         "164,SARAH,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 7,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20614,7 +20609,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13
+      "FreiePlaetze": 10
     },
     {
       "Nr": 119233,
@@ -20629,7 +20624,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 7,
+      "Teilnehmer": 9,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20685,7 +20680,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13,
+      "FreiePlaetze": 11,
       "BuchungszeitraumDate": "2026-05-19T16:05:00.000Z"
     },
     {
@@ -20701,7 +20696,7 @@
         "204,SEBASTIAN,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 8,
+      "Teilnehmer": 9,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20757,7 +20752,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 16,
       "BuchungszeitraumDate": "2026-05-19T17:00:00.000Z"
     },
     {
@@ -20773,7 +20768,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 4,
+      "Teilnehmer": 5,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20829,7 +20824,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 21,
+      "FreiePlaetze": 20,
       "BuchungszeitraumDate": "2026-05-20T07:00:00.000Z"
     },
     {
@@ -20845,7 +20840,7 @@
         "115,GABY,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 21,
+      "Teilnehmer": 19,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -20901,7 +20896,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 4,
+      "FreiePlaetze": 6,
       "BuchungszeitraumDate": "2026-05-20T07:00:00.000Z"
     },
     {
@@ -20918,7 +20913,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 25,
-      "WLTeilnehmer": 1,
+      "WLTeilnehmer": 5,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -20989,7 +20984,7 @@
         "8,Chris,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 3,
+      "Teilnehmer": 5,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21045,7 +21040,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 22,
+      "FreiePlaetze": 20,
       "BuchungszeitraumDate": "2026-05-20T15:00:00.000Z"
     },
     {
@@ -21133,7 +21128,7 @@
         "8,Chris,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 6,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21189,7 +21184,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-05-20T15:30:00.000Z"
     },
     {
@@ -21205,7 +21200,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 16,
+      "Teilnehmer": 18,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21261,7 +21256,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9,
+      "FreiePlaetze": 7,
       "BuchungszeitraumDate": "2026-05-20T16:00:00.000Z"
     },
     {
@@ -21349,7 +21344,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 4,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21405,7 +21400,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-05-20T17:00:00.000Z"
     },
     {
@@ -21494,7 +21489,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 25,
       "Teilnehmer": 25,
-      "WLTeilnehmer": 4,
+      "WLTeilnehmer": 5,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -21709,7 +21704,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 2,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21765,7 +21760,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 23,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-05-21T15:00:00.000Z"
     },
     {
@@ -21781,7 +21776,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 5,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -21837,7 +21832,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-05-21T16:00:00.000Z"
     },
     {
@@ -21853,7 +21848,7 @@
         "8,Chris,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 12,
+      "Teilnehmer": 17,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#56c1dd",
@@ -21909,7 +21904,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 8,
+      "FreiePlaetze": 3,
       "BuchungszeitraumDate": "2026-05-21T16:00:00.000Z"
     },
     {
@@ -21996,7 +21991,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 2,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22052,7 +22047,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 23,
+      "FreiePlaetze": 22,
       "BuchungszeitraumDate": "2026-05-21T17:00:00.000Z"
     },
     {
@@ -22068,7 +22063,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 3,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22124,7 +22119,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 22,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-05-22T06:45:00.000Z"
     },
     {
@@ -22140,7 +22135,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 2,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22196,7 +22191,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 18,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-05-22T07:00:00.000Z"
     },
     {
@@ -22212,7 +22207,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 11,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22268,7 +22263,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-05-22T07:30:00.000Z"
     },
     {
@@ -22284,7 +22279,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 18,
+      "Teilnehmer": 21,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22340,7 +22335,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 7,
+      "FreiePlaetze": 4,
       "BuchungszeitraumDate": "2026-05-22T08:00:00.000Z"
     },
     {
@@ -22500,7 +22495,7 @@
         "203,NINA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 3,
+      "Teilnehmer": 7,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
@@ -22556,7 +22551,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 13,
       "BuchungszeitraumDate": "2026-05-22T15:30:00.000Z"
     },
     {
@@ -22572,7 +22567,7 @@
         "174,EVE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 12,
+      "Teilnehmer": 17,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22628,7 +22623,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13,
+      "FreiePlaetze": 8,
       "BuchungszeitraumDate": "2026-05-23T08:00:00.000Z"
     },
     {
@@ -22644,7 +22639,7 @@
         "174,EVE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 7,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22700,7 +22695,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 18,
+      "FreiePlaetze": 15,
       "BuchungszeitraumDate": "2026-05-24T08:00:00.000Z"
     },
     {
@@ -22716,7 +22711,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 4,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22772,7 +22767,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 16,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-05-24T08:00:00.000Z"
     },
     {
@@ -22788,7 +22783,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 20,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22844,7 +22839,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 5,
       "BuchungszeitraumDate": "2026-05-25T07:00:00.000Z"
     },
     {
@@ -22932,7 +22927,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 9,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -22988,7 +22983,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25
+      "FreiePlaetze": 16
     },
     {
       "Nr": 117116,
@@ -23033,7 +23028,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 77,
@@ -23105,7 +23100,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 77,
@@ -23147,7 +23142,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23177,7 +23172,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -23203,7 +23198,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 22,
       "BuchungszeitraumDate": "2026-05-25T15:30:00.000Z"
     },
     {
@@ -23249,7 +23244,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -23291,7 +23286,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 1,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#56c1dd",
@@ -23321,7 +23316,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 39,
@@ -23347,7 +23342,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
+      "FreiePlaetze": 18,
       "BuchungszeitraumDate": "2026-05-25T16:30:00.000Z"
     },
     {
@@ -23363,7 +23358,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -23393,7 +23388,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 249,
@@ -23419,7 +23414,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-05-25T17:20:00.000Z"
     },
     {
@@ -23465,7 +23460,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
