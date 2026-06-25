@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALDESC:Kursplan von Workout Braunschweig
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81863-20260615T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T070000Z
 DTEND:20260615T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -17,7 +17,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81964-20260615T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T080000Z
 DTEND:20260615T090000Z
 SUMMARY:[Juliusstraße] Cardio Fit
@@ -26,7 +26,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82005-20260615T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T090000Z
 DTEND:20260615T093000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -35,7 +35,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82045-20260615T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T093000Z
 DTEND:20260615T100000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -44,7 +44,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66316-20260615T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T100000Z
 DTEND:20260615T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -53,7 +53,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82083-20260615T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T123000Z
 DTEND:20260615T131500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -62,7 +62,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82123-20260615T131500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T131500Z
 DTEND:20260615T140000Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -71,7 +71,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82164-20260615T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T140000Z
 DTEND:20260615T150000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -80,7 +80,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80356-20260615T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T150000Z
 DTEND:20260615T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -89,7 +89,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82213-20260615T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T150000Z
 DTEND:20260615T160000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -98,7 +98,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66739-20260615T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T160000Z
 DTEND:20260615T170000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -107,7 +107,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66851-20260615T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T170000Z
 DTEND:20260615T180000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -116,7 +116,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67268-20260616T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T070000Z
 DTEND:20260616T080000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -125,7 +125,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82263-20260616T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T070000Z
 DTEND:20260616T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -134,7 +134,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67369-20260616T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T080000Z
 DTEND:20260616T090000Z
 SUMMARY:[Juliusstraße] Wirbelsäulengymnastik
@@ -143,7 +143,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80858-20260616T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T080000Z
 DTEND:20260616T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -152,7 +152,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78863-20260616T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T090000Z
 DTEND:20260616T100000Z
 SUMMARY:[Juliusstraße] Mindful Mobility
@@ -161,7 +161,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82369-20260616T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T090000Z
 DTEND:20260616T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -170,7 +170,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67554-20260616T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T100000Z
 DTEND:20260616T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -179,7 +179,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67655-20260616T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T103000Z
 DTEND:20260616T111500Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -188,7 +188,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82443-20260616T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T130000Z
 DTEND:20260616T140000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -197,7 +197,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87277-20260616T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T150000Z
 DTEND:20260616T155500Z
 SUMMARY:[Juliusstraße] Langhantel Workout
@@ -206,7 +206,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67861-20260616T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T153000Z
 DTEND:20260616T160000Z
 SUMMARY:[Juliusstraße] Bauch-Express
@@ -215,7 +215,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82579-20260616T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T160000Z
 DTEND:20260616T170000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -224,7 +224,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82632-20260616T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T160000Z
 DTEND:20260616T170000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -233,7 +233,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68098-20260616T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T170000Z
 DTEND:20260616T173000Z
 SUMMARY:[Juliusstraße] TRX
@@ -242,7 +242,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82673-20260616T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T170000Z
 DTEND:20260616T180000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -251,7 +251,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68532-20260617T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T070000Z
 DTEND:20260617T080000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -260,7 +260,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68635-20260617T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T080000Z
 DTEND:20260617T090000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -269,7 +269,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82731-20260617T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T120000Z
 DTEND:20260617T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -278,7 +278,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82773-20260617T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T140000Z
 DTEND:20260617T144500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -287,7 +287,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82809-20260617T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T140000Z
 DTEND:20260617T150000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -296,7 +296,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68943-20260617T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T150000Z
 DTEND:20260617T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -305,7 +305,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82886-20260617T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T160000Z
 DTEND:20260617T170000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -314,7 +314,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82940-20260617T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T160000Z
 DTEND:20260617T170000Z
 SUMMARY:[Juliusstraße] POUND Fitness
@@ -323,7 +323,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69297-20260617T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T170000Z
 DTEND:20260617T180000Z
 SUMMARY:[Juliusstraße] Hot Muscle
@@ -332,7 +332,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82981-20260617T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T180000Z
 DTEND:20260617T190000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -341,7 +341,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83028-20260618T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T070000Z
 DTEND:20260618T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -350,7 +350,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69741-20260618T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T080000Z
 DTEND:20260618T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -359,7 +359,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83076-20260618T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T080000Z
 DTEND:20260618T090000Z
 SUMMARY:[Juliusstraße] Swing & Stretch
@@ -368,7 +368,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69894-20260618T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T090000Z
 DTEND:20260618T103000Z
 SUMMARY:[Juliusstraße] Sturzprävention
@@ -377,7 +377,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83150-20260618T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T103000Z
 DTEND:20260618T111500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -386,7 +386,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-57914-20260618T114500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T114500Z
 DTEND:20260618T123000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -395,7 +395,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-65477-20260618T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T120000Z
 DTEND:20260618T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -404,7 +404,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78662-20260618T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T123000Z
 DTEND:20260618T130000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -413,7 +413,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78964-20260618T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T130000Z
 DTEND:20260618T133000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -422,7 +422,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79064-20260618T133000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T133000Z
 DTEND:20260618T140000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -431,7 +431,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83204-20260618T141500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T141500Z
 DTEND:20260618T150000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -440,7 +440,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79165-20260618T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T150000Z
 DTEND:20260618T154500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -449,7 +449,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-85589-20260618T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T153000Z
 DTEND:20260618T162500Z
 SUMMARY:[Juliusstraße] Cardio Power
@@ -458,7 +458,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78544-20260618T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T160000Z
 DTEND:20260618T173000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -467,7 +467,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87481-20260618T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T163000Z
 DTEND:20260618T170000Z
 SUMMARY:[Juliusstraße] Bauch Workout
@@ -476,7 +476,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78309-20260619T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T070000Z
 DTEND:20260619T080000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -485,7 +485,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79266-20260619T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T080000Z
 DTEND:20260619T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -494,7 +494,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83275-20260619T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T080000Z
 DTEND:20260619T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -503,7 +503,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78410-20260619T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T090000Z
 DTEND:20260619T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -512,7 +512,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83381-20260619T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T160000Z
 DTEND:20260619T170000Z
 SUMMARY:[Juliusstraße] JAMFYA
@@ -521,7 +521,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79465-20260620T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260620T100000Z
 DTEND:20260620T113000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -530,7 +530,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87654-20260621T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T080000Z
 DTEND:20260621T090000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -539,7 +539,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83485-20260621T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T083000Z
 DTEND:20260621T100000Z
 SUMMARY:[Juliusstraße] Cycling
@@ -548,7 +548,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-75895-20260621T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T093000Z
 DTEND:20260621T104500Z
 SUMMARY:[Juliusstraße] Yoga Beginner
@@ -557,7 +557,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81864-20260622T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T070000Z
 DTEND:20260622T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -566,7 +566,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81965-20260622T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T080000Z
 DTEND:20260622T090000Z
 SUMMARY:[Juliusstraße] Cardio Fit
@@ -575,7 +575,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82006-20260622T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T090000Z
 DTEND:20260622T093000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -584,7 +584,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82046-20260622T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T093000Z
 DTEND:20260622T100000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -593,7 +593,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66317-20260622T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T100000Z
 DTEND:20260622T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -602,7 +602,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82084-20260622T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T123000Z
 DTEND:20260622T131500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -611,7 +611,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82124-20260622T131500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T131500Z
 DTEND:20260622T140000Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -620,7 +620,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82165-20260622T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T140000Z
 DTEND:20260622T150000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -629,7 +629,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80357-20260622T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T150000Z
 DTEND:20260622T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -638,7 +638,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82214-20260622T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T150000Z
 DTEND:20260622T160000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -647,7 +647,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66740-20260622T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T160000Z
 DTEND:20260622T170000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -656,7 +656,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78764-20260622T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T160000Z
 DTEND:20260622T170000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -665,7 +665,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66852-20260622T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T170000Z
 DTEND:20260622T180000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -674,7 +674,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82264-20260623T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T070000Z
 DTEND:20260623T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -683,7 +683,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82296-20260623T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T070000Z
 DTEND:20260623T080000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -692,7 +692,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80859-20260623T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T080000Z
 DTEND:20260623T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -701,7 +701,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82329-20260623T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T080000Z
 DTEND:20260623T090000Z
 SUMMARY:[Juliusstraße] Wirbelsäulengymnastik
@@ -710,7 +710,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78864-20260623T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T090000Z
 DTEND:20260623T100000Z
 SUMMARY:[Juliusstraße] Mindful Mobility
@@ -719,7 +719,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82370-20260623T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T090000Z
 DTEND:20260623T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -728,7 +728,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67555-20260623T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T100000Z
 DTEND:20260623T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -737,7 +737,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67656-20260623T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T103000Z
 DTEND:20260623T111500Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -746,7 +746,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82444-20260623T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T130000Z
 DTEND:20260623T140000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -755,7 +755,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87278-20260623T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T150000Z
 DTEND:20260623T155500Z
 SUMMARY:[Juliusstraße] Langhantel Workout
@@ -764,7 +764,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82580-20260623T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T160000Z
 DTEND:20260623T170000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -773,7 +773,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82633-20260623T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T160000Z
 DTEND:20260623T170000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -782,7 +782,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68099-20260623T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T170000Z
 DTEND:20260623T173000Z
 SUMMARY:[Juliusstraße] TRX
@@ -791,7 +791,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82674-20260623T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T170000Z
 DTEND:20260623T180000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -800,7 +800,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68533-20260624T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T070000Z
 DTEND:20260624T080000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -809,7 +809,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68636-20260624T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T080000Z
 DTEND:20260624T090000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -818,7 +818,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82732-20260624T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T120000Z
 DTEND:20260624T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -827,7 +827,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82774-20260624T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T140000Z
 DTEND:20260624T144500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -835,17 +835,17 @@ DESCRIPTION:Trainer: Petra\nRaum: Kursraum 1\n<p><br/><!--StartFragment--><span 
 LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82810-20260624T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-88086-20260624T140000@workout-bs.de
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T140000Z
-DTEND:20260624T150000Z
-SUMMARY:[Juliusstraße] Pilates
-DESCRIPTION:Trainer: Milena\nRaum: Kursraum 2\n<p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Als Mitglied des Workouts Wasserwelt\, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Kennst du schon unsere ClubConnector App?</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Jetzt wird die Kursbuchung noch einfacher.</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">1. ClubConnector-App im App-Store runterladen</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">2. QR Code im Studio einscannen</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</span></font></p><p><span style="color: #f6f6f6\;"><font size="3" face="Arial\, Helvetica\, sans-serif">Du bist noch kein Mitglied? Kein Problem\, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></span><span style="font-size: 9.0pt\;color: #555555\;"></span></p>
+DTEND:20260624T145500Z
+SUMMARY:[Juliusstraße] [Neu] Pilates
+DESCRIPTION:Trainer: Chiara Knofe\nRaum: Kursraum 2\n<p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Als Mitglied des Workouts Wasserwelt\, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Kennst du schon unsere ClubConnector App?</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">Jetzt wird die Kursbuchung noch einfacher.</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">1. ClubConnector-App im App-Store runterladen</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">2. QR Code im Studio einscannen</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</span></font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif"><span style="color: #f6f6f6\;">5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</span></font></p><p><span style="color: #f6f6f6\;"><font size="3" face="Arial\, Helvetica\, sans-serif">Du bist noch kein Mitglied? Kein Problem\, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></span><span style="font-size: 9.0pt\;color: #555555\;"></span></p>
 LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68944-20260624T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T150000Z
 DTEND:20260624T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -853,17 +853,17 @@ DESCRIPTION:Trainer: Petra\nRaum: Kursraum 1\n<p><font size="3" face="Arial\, He
 LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82846-20260624T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-88084-20260624T150000@workout-bs.de
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T150000Z
 DTEND:20260624T160000Z
-SUMMARY:[Juliusstraße] Zumba
-DESCRIPTION:Trainer: Milena\nRaum: Kursraum 2\n<div><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Hier werden lateinamerikanische Klänge mit Aerobic-Übungen\, Tanzelementen und Intervalltraining kombiniert. Lass dich von der Musik mitreißen\, trainiere nebenbei deinen ganzen Körper und steigere deine Ausdauer.</font></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">​</font></p><p></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Als Mitglied des Workouts Wasserwelt\, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5"><br/></font></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">1. ClubConnector-App im App-Store runterladen</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">2. QR Code im Studio einscannen</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</font></p><p><font color="#f5f5f5"><font size="3" face="Arial\, Helvetica\, sans-serif">Du bist noch kein Mitglie</font><font face="Arial\, Helvetica\, sans-serif"><font size="3">d? Kein Problem\, hol dir deine T</font><font size="3">ageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></font></p><p></p><p></p></div>
+SUMMARY:[Juliusstraße] [Neu] Zumba
+DESCRIPTION:Trainer: Sven\nRaum: Kursraum 2\n<div><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Hier werden lateinamerikanische Klänge mit Aerobic-Übungen\, Tanzelementen und Intervalltraining kombiniert. Lass dich von der Musik mitreißen\, trainiere nebenbei deinen ganzen Körper und steigere deine Ausdauer.</font></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">​</font></p><p></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Als Mitglied des Workouts Wasserwelt\, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5"><br/></font></p><p></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">1. ClubConnector-App im App-Store runterladen</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">2. QR Code im Studio einscannen</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size="3" face="Arial\, Helvetica\, sans-serif" color="#f5f5f5">5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</font></p><p><font color="#f5f5f5"><font size="3" face="Arial\, Helvetica\, sans-serif">Du bist noch kein Mitglie</font><font face="Arial\, Helvetica\, sans-serif"><font size="3">d? Kein Problem\, hol dir deine T</font><font size="3">ageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></font></p><p></p><p></p></div>
 LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82887-20260624T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T160000Z
 DTEND:20260624T170000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -872,7 +872,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82941-20260624T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T160000Z
 DTEND:20260624T170000Z
 SUMMARY:[Juliusstraße] POUND Fitness
@@ -881,7 +881,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69298-20260624T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T170000Z
 DTEND:20260624T180000Z
 SUMMARY:[Juliusstraße] Hot Muscle
@@ -890,7 +890,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82982-20260624T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T180000Z
 DTEND:20260624T190000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -899,7 +899,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83029-20260625T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T070000Z
 DTEND:20260625T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -908,7 +908,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69742-20260625T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T080000Z
 DTEND:20260625T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -917,7 +917,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83077-20260625T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T080000Z
 DTEND:20260625T090000Z
 SUMMARY:[Juliusstraße] Swing & Stretch
@@ -926,7 +926,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83110-20260625T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T090000Z
 DTEND:20260625T103000Z
 SUMMARY:[Juliusstraße] Sturzprävention
@@ -935,7 +935,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83151-20260625T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T103000Z
 DTEND:20260625T111500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -944,7 +944,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-57915-20260625T114500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T114500Z
 DTEND:20260625T123000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -953,7 +953,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-65478-20260625T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T120000Z
 DTEND:20260625T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -962,7 +962,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78663-20260625T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T123000Z
 DTEND:20260625T130000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -971,7 +971,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78965-20260625T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T130000Z
 DTEND:20260625T133000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -980,7 +980,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79065-20260625T133000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T133000Z
 DTEND:20260625T140000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -989,7 +989,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83205-20260625T141500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T141500Z
 DTEND:20260625T150000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -998,7 +998,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79166-20260625T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T150000Z
 DTEND:20260625T154500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1007,7 +1007,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-85590-20260625T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T153000Z
 DTEND:20260625T162500Z
 SUMMARY:[Juliusstraße] Cardio Power
@@ -1016,7 +1016,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78545-20260625T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T160000Z
 DTEND:20260625T173000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1025,7 +1025,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87482-20260625T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T163000Z
 DTEND:20260625T170000Z
 SUMMARY:[Juliusstraße] Bauch Workout
@@ -1034,7 +1034,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78310-20260626T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T070000Z
 DTEND:20260626T080000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1043,7 +1043,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79267-20260626T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T080000Z
 DTEND:20260626T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1052,7 +1052,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83276-20260626T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T080000Z
 DTEND:20260626T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1061,7 +1061,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78411-20260626T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T090000Z
 DTEND:20260626T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1070,7 +1070,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83382-20260626T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T160000Z
 DTEND:20260626T170000Z
 SUMMARY:[Juliusstraße] JAMFYA
@@ -1079,7 +1079,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79466-20260627T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260627T100000Z
 DTEND:20260627T113000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1088,7 +1088,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87656-20260628T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T080000Z
 DTEND:20260628T090000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -1097,7 +1097,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83486-20260628T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T083000Z
 DTEND:20260628T100000Z
 SUMMARY:[Juliusstraße] Cycling
@@ -1106,7 +1106,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-75896-20260628T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T093000Z
 DTEND:20260628T104500Z
 SUMMARY:[Juliusstraße] Yoga Beginner
@@ -1115,7 +1115,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81865-20260629T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T070000Z
 DTEND:20260629T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1124,7 +1124,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81966-20260629T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T080000Z
 DTEND:20260629T090000Z
 SUMMARY:[Juliusstraße] Cardio Fit
@@ -1133,7 +1133,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82007-20260629T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T090000Z
 DTEND:20260629T093000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -1142,7 +1142,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82047-20260629T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T093000Z
 DTEND:20260629T100000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -1151,7 +1151,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66318-20260629T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T100000Z
 DTEND:20260629T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -1160,7 +1160,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82085-20260629T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T123000Z
 DTEND:20260629T131500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1169,7 +1169,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82125-20260629T131500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T131500Z
 DTEND:20260629T140000Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1178,7 +1178,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82166-20260629T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T140000Z
 DTEND:20260629T150000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1187,7 +1187,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80358-20260629T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T150000Z
 DTEND:20260629T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1196,7 +1196,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82215-20260629T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T150000Z
 DTEND:20260629T160000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -1205,7 +1205,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66741-20260629T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T160000Z
 DTEND:20260629T170000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -1214,7 +1214,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78765-20260629T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T160000Z
 DTEND:20260629T170000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1223,7 +1223,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66853-20260629T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T170000Z
 DTEND:20260629T180000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -1232,7 +1232,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82265-20260630T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T070000Z
 DTEND:20260630T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1241,7 +1241,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82297-20260630T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T070000Z
 DTEND:20260630T080000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -1250,7 +1250,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80860-20260630T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T080000Z
 DTEND:20260630T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1259,7 +1259,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82330-20260630T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T080000Z
 DTEND:20260630T090000Z
 SUMMARY:[Juliusstraße] Wirbelsäulengymnastik
@@ -1268,7 +1268,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78865-20260630T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T090000Z
 DTEND:20260630T100000Z
 SUMMARY:[Juliusstraße] Mindful Mobility
@@ -1277,7 +1277,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82371-20260630T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T090000Z
 DTEND:20260630T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1286,7 +1286,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67556-20260630T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T100000Z
 DTEND:20260630T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -1295,7 +1295,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67657-20260630T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T103000Z
 DTEND:20260630T111500Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -1304,7 +1304,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82445-20260630T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T130000Z
 DTEND:20260630T140000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1313,7 +1313,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87279-20260630T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T150000Z
 DTEND:20260630T155500Z
 SUMMARY:[Juliusstraße] Langhantel Workout
@@ -1322,7 +1322,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67863-20260630T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T153000Z
 DTEND:20260630T160000Z
 SUMMARY:[Juliusstraße] Bauch-Express
@@ -1331,7 +1331,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82581-20260630T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T160000Z
 DTEND:20260630T170000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -1340,7 +1340,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82634-20260630T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T160000Z
 DTEND:20260630T170000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -1349,7 +1349,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68100-20260630T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T170000Z
 DTEND:20260630T173000Z
 SUMMARY:[Juliusstraße] TRX
@@ -1358,7 +1358,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82675-20260630T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T170000Z
 DTEND:20260630T180000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -1367,7 +1367,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68534-20260701T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T070000Z
 DTEND:20260701T080000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -1376,7 +1376,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68637-20260701T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T080000Z
 DTEND:20260701T090000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1385,7 +1385,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82733-20260701T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T120000Z
 DTEND:20260701T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -1394,7 +1394,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82775-20260701T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T140000Z
 DTEND:20260701T144500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1403,7 +1403,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82811-20260701T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T140000Z
 DTEND:20260701T150000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -1412,7 +1412,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68945-20260701T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T150000Z
 DTEND:20260701T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1421,7 +1421,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82847-20260701T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T150000Z
 DTEND:20260701T160000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -1430,7 +1430,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82888-20260701T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T160000Z
 DTEND:20260701T170000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1439,7 +1439,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82942-20260701T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T160000Z
 DTEND:20260701T170000Z
 SUMMARY:[Juliusstraße] POUND Fitness
@@ -1448,7 +1448,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69299-20260701T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T170000Z
 DTEND:20260701T180000Z
 SUMMARY:[Juliusstraße] Hot Muscle
@@ -1457,7 +1457,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82983-20260701T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T180000Z
 DTEND:20260701T190000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -1466,7 +1466,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83030-20260702T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T070000Z
 DTEND:20260702T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1475,7 +1475,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69743-20260702T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T080000Z
 DTEND:20260702T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1484,7 +1484,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83078-20260702T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T080000Z
 DTEND:20260702T090000Z
 SUMMARY:[Juliusstraße] Swing & Stretch
@@ -1493,7 +1493,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83111-20260702T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T090000Z
 DTEND:20260702T103000Z
 SUMMARY:[Juliusstraße] Sturzprävention
@@ -1502,7 +1502,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87935-20260702T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T090000Z
 DTEND:20260702T103000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1511,7 +1511,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83152-20260702T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T103000Z
 DTEND:20260702T111500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1520,7 +1520,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-57916-20260702T114500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T114500Z
 DTEND:20260702T123000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -1529,7 +1529,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-65479-20260702T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T120000Z
 DTEND:20260702T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -1538,7 +1538,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78664-20260702T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T123000Z
 DTEND:20260702T130000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -1547,7 +1547,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78966-20260702T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T130000Z
 DTEND:20260702T133000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -1556,7 +1556,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79066-20260702T133000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T133000Z
 DTEND:20260702T140000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -1565,7 +1565,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83206-20260702T141500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T141500Z
 DTEND:20260702T150000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -1574,7 +1574,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79167-20260702T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T150000Z
 DTEND:20260702T154500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1583,7 +1583,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-85591-20260702T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T153000Z
 DTEND:20260702T162500Z
 SUMMARY:[Juliusstraße] Cardio Power
@@ -1592,7 +1592,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78546-20260702T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T160000Z
 DTEND:20260702T173000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1601,7 +1601,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87483-20260702T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T163000Z
 DTEND:20260702T170000Z
 SUMMARY:[Juliusstraße] Bauch Workout
@@ -1610,7 +1610,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78311-20260703T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T070000Z
 DTEND:20260703T080000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1619,7 +1619,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79268-20260703T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T080000Z
 DTEND:20260703T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1628,7 +1628,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83277-20260703T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T080000Z
 DTEND:20260703T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1637,7 +1637,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78412-20260703T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T090000Z
 DTEND:20260703T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1646,7 +1646,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83383-20260703T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T160000Z
 DTEND:20260703T170000Z
 SUMMARY:[Juliusstraße] JAMFYA
@@ -1655,7 +1655,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79467-20260704T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260704T100000Z
 DTEND:20260704T113000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1664,7 +1664,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83487-20260705T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T083000Z
 DTEND:20260705T100000Z
 SUMMARY:[Juliusstraße] Cycling
@@ -1673,7 +1673,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-75897-20260705T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T093000Z
 DTEND:20260705T104500Z
 SUMMARY:[Juliusstraße] Yoga Beginner
@@ -1682,7 +1682,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81866-20260706T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T070000Z
 DTEND:20260706T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1691,7 +1691,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81967-20260706T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T080000Z
 DTEND:20260706T090000Z
 SUMMARY:[Juliusstraße] Cardio Fit
@@ -1700,7 +1700,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82008-20260706T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T090000Z
 DTEND:20260706T093000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -1709,7 +1709,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82048-20260706T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T093000Z
 DTEND:20260706T100000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -1718,7 +1718,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66319-20260706T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T100000Z
 DTEND:20260706T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -1727,7 +1727,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82086-20260706T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T123000Z
 DTEND:20260706T131500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1736,7 +1736,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82126-20260706T131500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T131500Z
 DTEND:20260706T140000Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1745,7 +1745,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82167-20260706T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T140000Z
 DTEND:20260706T150000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1754,7 +1754,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80359-20260706T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T150000Z
 DTEND:20260706T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1763,7 +1763,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82216-20260706T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T150000Z
 DTEND:20260706T160000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -1772,7 +1772,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66742-20260706T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T160000Z
 DTEND:20260706T170000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -1781,7 +1781,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78766-20260706T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T160000Z
 DTEND:20260706T170000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -1790,7 +1790,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66854-20260706T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T170000Z
 DTEND:20260706T180000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -1799,7 +1799,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82266-20260707T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T070000Z
 DTEND:20260707T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1808,7 +1808,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82298-20260707T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T070000Z
 DTEND:20260707T080000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -1817,7 +1817,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80861-20260707T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T080000Z
 DTEND:20260707T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1826,7 +1826,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82331-20260707T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T080000Z
 DTEND:20260707T090000Z
 SUMMARY:[Juliusstraße] Wirbelsäulengymnastik
@@ -1835,7 +1835,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82372-20260707T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T090000Z
 DTEND:20260707T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1844,7 +1844,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67557-20260707T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T100000Z
 DTEND:20260707T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -1853,7 +1853,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67658-20260707T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T103000Z
 DTEND:20260707T111500Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -1862,7 +1862,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87799-20260707T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T150000Z
 DTEND:20260707T155000Z
 SUMMARY:[Juliusstraße] Fit-Fight
@@ -1871,7 +1871,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-67864-20260707T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T153000Z
 DTEND:20260707T160000Z
 SUMMARY:[Juliusstraße] Bauch-Express
@@ -1880,7 +1880,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82582-20260707T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T160000Z
 DTEND:20260707T170000Z
 SUMMARY:[Juliusstraße] Hot Iron
@@ -1889,7 +1889,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82635-20260707T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T160000Z
 DTEND:20260707T170000Z
 SUMMARY:[Juliusstraße] Body Workout
@@ -1898,7 +1898,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68101-20260707T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T170000Z
 DTEND:20260707T173000Z
 SUMMARY:[Juliusstraße] TRX
@@ -1907,7 +1907,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82676-20260707T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T170000Z
 DTEND:20260707T180000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -1916,7 +1916,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68535-20260708T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T070000Z
 DTEND:20260708T080000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -1925,7 +1925,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68638-20260708T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T080000Z
 DTEND:20260708T090000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -1934,7 +1934,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82734-20260708T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T120000Z
 DTEND:20260708T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -1943,7 +1943,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82776-20260708T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T140000Z
 DTEND:20260708T144500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -1952,7 +1952,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82812-20260708T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T140000Z
 DTEND:20260708T150000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -1961,7 +1961,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-68946-20260708T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T150000Z
 DTEND:20260708T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1970,7 +1970,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82848-20260708T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T150000Z
 DTEND:20260708T160000Z
 SUMMARY:[Juliusstraße] Zumba
@@ -1979,7 +1979,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82889-20260708T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T160000Z
 DTEND:20260708T170000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -1988,7 +1988,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82943-20260708T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T160000Z
 DTEND:20260708T170000Z
 SUMMARY:[Juliusstraße] POUND Fitness
@@ -1997,7 +1997,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69300-20260708T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T170000Z
 DTEND:20260708T180000Z
 SUMMARY:[Juliusstraße] Hot Muscle
@@ -2006,7 +2006,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82984-20260708T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T180000Z
 DTEND:20260708T190000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -2015,7 +2015,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83031-20260709T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T070000Z
 DTEND:20260709T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -2024,7 +2024,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-69744-20260709T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T080000Z
 DTEND:20260709T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -2033,7 +2033,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83079-20260709T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T080000Z
 DTEND:20260709T090000Z
 SUMMARY:[Juliusstraße] Swing & Stretch
@@ -2042,7 +2042,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83112-20260709T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T090000Z
 DTEND:20260709T103000Z
 SUMMARY:[Juliusstraße] Sturzprävention
@@ -2051,7 +2051,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87939-20260709T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T090000Z
 DTEND:20260709T103000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -2060,7 +2060,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83153-20260709T103000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T103000Z
 DTEND:20260709T111500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2069,7 +2069,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-57917-20260709T114500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T114500Z
 DTEND:20260709T123000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -2078,7 +2078,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-65480-20260709T120000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T120000Z
 DTEND:20260709T124500Z
 SUMMARY:[Juliusstraße] REHA WASSERGYMNASTIK
@@ -2087,7 +2087,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78665-20260709T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T123000Z
 DTEND:20260709T130000Z
 SUMMARY:[Juliusstraße] Funktionstraining - kostenlos
@@ -2096,7 +2096,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78967-20260709T130000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T130000Z
 DTEND:20260709T133000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -2105,7 +2105,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79067-20260709T133000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T133000Z
 DTEND:20260709T140000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -2114,7 +2114,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83207-20260709T141500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T141500Z
 DTEND:20260709T150000Z
 SUMMARY:[Juliusstraße] Rehakurs - kostenlos
@@ -2123,7 +2123,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79168-20260709T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T150000Z
 DTEND:20260709T154500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2132,7 +2132,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-85592-20260709T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T153000Z
 DTEND:20260709T162500Z
 SUMMARY:[Juliusstraße] Cardio Power
@@ -2141,7 +2141,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78547-20260709T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T160000Z
 DTEND:20260709T173000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -2150,7 +2150,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-87484-20260709T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T163000Z
 DTEND:20260709T170000Z
 SUMMARY:[Juliusstraße] Bauch Workout
@@ -2159,7 +2159,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78312-20260710T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T070000Z
 DTEND:20260710T080000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -2168,7 +2168,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79269-20260710T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T080000Z
 DTEND:20260710T084500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2177,7 +2177,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83278-20260710T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T080000Z
 DTEND:20260710T090000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -2186,7 +2186,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78413-20260710T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T090000Z
 DTEND:20260710T094500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2195,7 +2195,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83384-20260710T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T160000Z
 DTEND:20260710T170000Z
 SUMMARY:[Juliusstraße] JAMFYA
@@ -2204,7 +2204,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-79468-20260711T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260711T100000Z
 DTEND:20260711T113000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -2213,7 +2213,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-83488-20260712T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T083000Z
 DTEND:20260712T100000Z
 SUMMARY:[Juliusstraße] Cycling
@@ -2222,7 +2222,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-75898-20260712T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T093000Z
 DTEND:20260712T104500Z
 SUMMARY:[Juliusstraße] Yoga Beginner
@@ -2231,7 +2231,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81867-20260713T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T070000Z
 DTEND:20260713T080000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -2240,7 +2240,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-81968-20260713T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T080000Z
 DTEND:20260713T090000Z
 SUMMARY:[Juliusstraße] Cardio Fit
@@ -2249,7 +2249,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82009-20260713T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T090000Z
 DTEND:20260713T093000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -2258,7 +2258,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82049-20260713T093000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T093000Z
 DTEND:20260713T100000Z
 SUMMARY:[Juliusstraße] Funktionstraining (Hockergymnastik)
@@ -2267,7 +2267,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66320-20260713T100000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T100000Z
 DTEND:20260713T103000Z
 SUMMARY:[Juliusstraße] Funktionstraining
@@ -2276,7 +2276,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82087-20260713T123000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T123000Z
 DTEND:20260713T131500Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2285,7 +2285,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82127-20260713T131500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T131500Z
 DTEND:20260713T140000Z
 SUMMARY:[Juliusstraße] Rehakurs
@@ -2294,7 +2294,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82168-20260713T140000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T140000Z
 DTEND:20260713T150000Z
 SUMMARY:[Juliusstraße] Bauch-Beine-Po
@@ -2303,7 +2303,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-80360-20260713T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T150000Z
 DTEND:20260713T160000Z
 SUMMARY:[Juliusstraße] Rückenfit
@@ -2312,7 +2312,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-82217-20260713T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T150000Z
 DTEND:20260713T160000Z
 SUMMARY:[Juliusstraße] Pilates
@@ -2321,7 +2321,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66743-20260713T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T160000Z
 DTEND:20260713T170000Z
 SUMMARY:[Juliusstraße] Kickboxen
@@ -2330,7 +2330,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-78767-20260713T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T160000Z
 DTEND:20260713T170000Z
 SUMMARY:[Juliusstraße] Yoga
@@ -2339,7 +2339,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-1f7a56be-13c6-47cf-a4f5-70b9e32ae30c-66855-20260713T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T170000Z
 DTEND:20260713T180000Z
 SUMMARY:[Juliusstraße] Rückenfit*
@@ -2348,7 +2348,7 @@ LOCATION:Workout Juliusstraße\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117008-20260615T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T070000Z
 DTEND:20260615T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -2357,7 +2357,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118551-20260615T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T070000Z
 DTEND:20260615T075500Z
 SUMMARY:[Wasserwelt] Full Body-Fit
@@ -2366,7 +2366,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117065-20260615T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T080000Z
 DTEND:20260615T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -2375,7 +2375,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117118-20260615T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T150000Z
 DTEND:20260615T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -2384,7 +2384,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117169-20260615T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T153000Z
 DTEND:20260615T162500Z
 SUMMARY:[Wasserwelt] Step 2 Fortgeschrittene
@@ -2393,7 +2393,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117222-20260615T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T153000Z
 DTEND:20260615T162500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -2402,7 +2402,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117274-20260615T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T163000Z
 DTEND:20260615T172500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -2411,7 +2411,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123683-20260615T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T163000Z
 DTEND:20260615T171000Z
 SUMMARY:[Wasserwelt] Kettle Bell Basic
@@ -2420,16 +2420,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123135-20260615T172000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T172000Z
 DTEND:20260615T182000Z
-SUMMARY:[Wasserwelt] Cycle - Dance / Electro
+SUMMARY:[Wasserwelt] [Neu] Cycle - Special
 DESCRIPTION:Trainer: Maria\nRaum: Kursraum 2\n<p><font size="4"><br/></font></p><!--StartFragment--><p class="isSelectedEnd"><font size="4"><strong><span>Cycle mit Maria &#128692\;&#8205\;♀️&#127926\;</span></strong></font></p><p class="isSelectedEnd"><font size="4"><span>Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten\, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</span></font></p><p class="isSelectedEnd"><font size="4"><span>Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto\, das dich durch das Training trägt und für extra Motivation sorgt!</span></font></p><h3><font size="4"><span>Special Dates im Juni</span></font></h3><p class="isSelectedEnd"><font size="4"><strong><span>01.06. – Dance / Electro ⚡</span></strong><br/><span>Starte kraftvoll in den Monat mit treibenden Beats\, energiegeladenen Drops und echtem Festival-Feeling auf dem Bike.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>08.06. – Indie Disco ✨</span></strong><br/><span>Coole Indie-Hymnen treffen auf tanzbare Disco-Vibes. Perfekt für alle\, die abwechslungsreiche Sounds und gute Laune lieben.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>15.06. – Dance / Electro &#128293\;</span></strong><br/><span>Noch mehr Energie\, noch mehr Rhythmus! Freu dich auf eine schweißtreibende Session voller Motivation und mitreißender Tracks.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>21.06. – Singalong Bangers &#127908\;</span></strong><br/><span>Songs\, die jede*r kennt und laut mitsingen möchte. Eine Stunde voller Gänsehautmomente\, Spaß und maximaler Motivation.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>22.06. – Deutschrap x Pop &#127911\;</span></strong><br/><span>Die perfekte Mischung aus starken Deutschrap-Beats und eingängigen Pop-Hits. Druckvolle Anstiege und lockere Fahrten garantiert.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>29.06. – Dance / Electro &#128692\;&#8205\;♀️⚡</span></strong><br/><span>Zum Monatsabschluss heißt es noch einmal Vollgas geben. Feier mit uns eine energiegeladene Ride-Party und bring dein Bike zum Glühen!</span></font></p><p><font size="4"><span>Sichere dir deinen Platz und erlebe Cycling\, das Fitness\, Musik und Motivation perfekt miteinander verbindet.</span></font></p><!--EndFragment--><p><br/></p><p><br/></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101608-20260615T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260615T180000Z
 DTEND:20260615T184500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -2438,7 +2438,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124343-20260616T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T070000Z
 DTEND:20260616T075500Z
 SUMMARY:[Wasserwelt] Rückenfit Yoga
@@ -2447,7 +2447,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101709-20260616T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T080000Z
 DTEND:20260616T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2456,7 +2456,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119041-20260616T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T080000Z
 DTEND:20260616T093000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -2465,7 +2465,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124416-20260616T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T080000Z
 DTEND:20260616T082500Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -2474,7 +2474,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101810-20260616T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T083000Z
 DTEND:20260616T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2483,7 +2483,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-107181-20260616T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T150000Z
 DTEND:20260616T155500Z
 SUMMARY:[Wasserwelt] ZUMBA®
@@ -2492,7 +2492,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119187-20260616T155500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T155500Z
 DTEND:20260616T165500Z
 SUMMARY:[Wasserwelt] POUND Fitness
@@ -2501,7 +2501,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101915-20260616T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T160000Z
 DTEND:20260616T164500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -2510,7 +2510,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119236-20260616T160500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260616T160500Z
 DTEND:20260616T173500Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -2519,7 +2519,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117909-20260617T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T070000Z
 DTEND:20260617T075500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -2528,7 +2528,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119306-20260617T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T070000Z
 DTEND:20260617T075000Z
 SUMMARY:[Wasserwelt] BBP
@@ -2537,7 +2537,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119355-20260617T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T080000Z
 DTEND:20260617T085000Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -2546,7 +2546,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119404-20260617T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T080000Z
 DTEND:20260617T085000Z
 SUMMARY:[Wasserwelt] Koordinationstraining
@@ -2555,7 +2555,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119605-20260617T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T150000Z
 DTEND:20260617T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -2564,7 +2564,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124475-20260617T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T153000Z
 DTEND:20260617T155500Z
 SUMMARY:[Wasserwelt] Tabata
@@ -2573,7 +2573,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115621-20260617T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T160000Z
 DTEND:20260617T165500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -2582,7 +2582,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119653-20260617T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T160000Z
 DTEND:20260617T165000Z
 SUMMARY:[Wasserwelt] Step 1\,5 Mittelstufe
@@ -2591,7 +2591,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119750-20260617T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260617T170000Z
 DTEND:20260617T181500Z
 SUMMARY:[Wasserwelt] Yin Yang Yoga
@@ -2600,7 +2600,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119799-20260618T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T070000Z
 DTEND:20260618T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -2609,7 +2609,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119897-20260618T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T073000Z
 DTEND:20260618T090000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -2618,7 +2618,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116729-20260618T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T080000Z
 DTEND:20260618T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2627,7 +2627,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119848-20260618T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T080000Z
 DTEND:20260618T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -2636,7 +2636,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116780-20260618T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T083000Z
 DTEND:20260618T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2645,7 +2645,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117590-20260618T110000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T110000Z
 DTEND:20260618T114500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -2654,7 +2654,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117398-20260618T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T150000Z
 DTEND:20260618T155500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -2663,7 +2663,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117451-20260618T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T160000Z
 DTEND:20260618T165500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -2672,7 +2672,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117504-20260618T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T160000Z
 DTEND:20260618T164500Z
 SUMMARY:[Wasserwelt] Kettle Bell Power
@@ -2681,7 +2681,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118349-20260618T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T170000Z
 DTEND:20260618T181500Z
 SUMMARY:[Wasserwelt] CYCLE (75 min.)
@@ -2690,7 +2690,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119995-20260618T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260618T170000Z
 DTEND:20260618T180000Z
 SUMMARY:[Wasserwelt] BBP
@@ -2699,7 +2699,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118885-20260619T064500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T064500Z
 DTEND:20260619T072500Z
 SUMMARY:[Wasserwelt] Aerobic
@@ -2708,7 +2708,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120044-20260619T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T070000Z
 DTEND:20260619T075500Z
 SUMMARY:[Wasserwelt] Schulter-Nacken-Kurs
@@ -2717,7 +2717,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116894-20260619T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T073000Z
 DTEND:20260619T075500Z
 SUMMARY:[Wasserwelt] BBP-EXPRESS
@@ -2726,7 +2726,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116948-20260619T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T080000Z
 DTEND:20260619T090000Z
 SUMMARY:[Wasserwelt] PILATES
@@ -2735,7 +2735,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120093-20260619T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T080000Z
 DTEND:20260619T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -2744,7 +2744,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118404-20260619T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260619T153000Z
 DTEND:20260619T163000Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -2753,7 +2753,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124855-20260620T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260620T080000Z
 DTEND:20260620T085500Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -2762,7 +2762,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124856-20260620T090000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260620T090000Z
 DTEND:20260620T093000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -2771,7 +2771,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-125408-20260620T143000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260620T143000Z
 DTEND:20260620T160000Z
 SUMMARY:[Wasserwelt] Yin-Yoga
@@ -2780,7 +2780,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115760-20260621T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T073000Z
 DTEND:20260621T075500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2789,7 +2789,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115813-20260621T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T080000Z
 DTEND:20260621T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2798,7 +2798,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118048-20260621T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T080000Z
 DTEND:20260621T091500Z
 SUMMARY:[Wasserwelt] Yoga
@@ -2807,7 +2807,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120291-20260621T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T080000Z
 DTEND:20260621T090000Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -2816,7 +2816,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124630-20260621T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260621T153000Z
 DTEND:20260621T161500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -2825,7 +2825,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117009-20260622T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T070000Z
 DTEND:20260622T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -2834,7 +2834,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117066-20260622T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T080000Z
 DTEND:20260622T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -2843,7 +2843,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117119-20260622T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T150000Z
 DTEND:20260622T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -2852,7 +2852,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117170-20260622T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T153000Z
 DTEND:20260622T162500Z
 SUMMARY:[Wasserwelt] Step 2 Fortgeschrittene
@@ -2861,7 +2861,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117223-20260622T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T153000Z
 DTEND:20260622T162500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -2870,7 +2870,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117275-20260622T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T163000Z
 DTEND:20260622T172500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -2879,7 +2879,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123684-20260622T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T163000Z
 DTEND:20260622T171000Z
 SUMMARY:[Wasserwelt] Kettle Bell Basic
@@ -2888,16 +2888,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123136-20260622T172000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T172000Z
 DTEND:20260622T182000Z
-SUMMARY:[Wasserwelt] Cycle - Dance / Electro
+SUMMARY:[Wasserwelt] [Neu] Cycle - Special
 DESCRIPTION:Trainer: Maria\nRaum: Kursraum 2\n<p><font size="4"><br/></font></p><!--StartFragment--><p class="isSelectedEnd"><font size="4"><strong><span>Cycle mit Maria &#128692\;&#8205\;♀️&#127926\;</span></strong></font></p><p class="isSelectedEnd"><font size="4"><span>Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten\, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</span></font></p><p class="isSelectedEnd"><font size="4"><span>Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto\, das dich durch das Training trägt und für extra Motivation sorgt!</span></font></p><h3><font size="4"><span>Special Dates im Juni</span></font></h3><p class="isSelectedEnd"><font size="4"><strong><span>01.06. – Dance / Electro ⚡</span></strong><br/><span>Starte kraftvoll in den Monat mit treibenden Beats\, energiegeladenen Drops und echtem Festival-Feeling auf dem Bike.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>08.06. – Indie Disco ✨</span></strong><br/><span>Coole Indie-Hymnen treffen auf tanzbare Disco-Vibes. Perfekt für alle\, die abwechslungsreiche Sounds und gute Laune lieben.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>15.06. – Dance / Electro &#128293\;</span></strong><br/><span>Noch mehr Energie\, noch mehr Rhythmus! Freu dich auf eine schweißtreibende Session voller Motivation und mitreißender Tracks.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>21.06. – Singalong Bangers &#127908\;</span></strong><br/><span>Songs\, die jede*r kennt und laut mitsingen möchte. Eine Stunde voller Gänsehautmomente\, Spaß und maximaler Motivation.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>22.06. – Deutschrap x Pop &#127911\;</span></strong><br/><span>Die perfekte Mischung aus starken Deutschrap-Beats und eingängigen Pop-Hits. Druckvolle Anstiege und lockere Fahrten garantiert.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>29.06. – Dance / Electro &#128692\;&#8205\;♀️⚡</span></strong><br/><span>Zum Monatsabschluss heißt es noch einmal Vollgas geben. Feier mit uns eine energiegeladene Ride-Party und bring dein Bike zum Glühen!</span></font></p><p><font size="4"><span>Sichere dir deinen Platz und erlebe Cycling\, das Fitness\, Musik und Motivation perfekt miteinander verbindet.</span></font></p><!--EndFragment--><p><br/></p><p><br/></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101609-20260622T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260622T180000Z
 DTEND:20260622T184500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -2906,7 +2906,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124345-20260623T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T070000Z
 DTEND:20260623T075500Z
 SUMMARY:[Wasserwelt] Rückenfit Yoga
@@ -2915,7 +2915,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101710-20260623T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T080000Z
 DTEND:20260623T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2924,7 +2924,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119042-20260623T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T080000Z
 DTEND:20260623T093000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -2933,7 +2933,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124418-20260623T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T080000Z
 DTEND:20260623T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -2942,7 +2942,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101811-20260623T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T083000Z
 DTEND:20260623T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -2951,7 +2951,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-107182-20260623T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T150000Z
 DTEND:20260623T155500Z
 SUMMARY:[Wasserwelt] ZUMBA®
@@ -2960,7 +2960,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119091-20260623T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T150000Z
 DTEND:20260623T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -2969,7 +2969,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119188-20260623T155500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T155500Z
 DTEND:20260623T165500Z
 SUMMARY:[Wasserwelt] POUND Fitness
@@ -2978,16 +2978,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124741-20260623T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T160000Z
 DTEND:20260623T162500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Power
+SUMMARY:[Wasserwelt] Aqua Power
 DESCRIPTION:Trainer: Marlene\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119237-20260623T160500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T160500Z
 DTEND:20260623T173500Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -2996,16 +2996,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124742-20260623T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T163000Z
 DTEND:20260623T165500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Power
+SUMMARY:[Wasserwelt] Aqua Power
 DESCRIPTION:Trainer: Marlene\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116098-20260623T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260623T170000Z
 DTEND:20260623T181500Z
 SUMMARY:[Wasserwelt] Vinyasa Yoga
@@ -3014,7 +3014,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117910-20260624T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T070000Z
 DTEND:20260624T075500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -3023,7 +3023,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119307-20260624T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T070000Z
 DTEND:20260624T075000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3032,7 +3032,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119356-20260624T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T080000Z
 DTEND:20260624T085000Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -3041,7 +3041,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119405-20260624T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T080000Z
 DTEND:20260624T085000Z
 SUMMARY:[Wasserwelt] Koordinationstraining
@@ -3049,17 +3049,8 @@ DESCRIPTION:Trainer: Thomas\nRaum: Kursraum 2\n<p><font size="3"><br/><!--StartF
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119515-20260624T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
-DTSTART:20260624T150000Z
-DTEND:20260624T152500Z
-SUMMARY:[Wasserwelt] Bauch-Fit
-DESCRIPTION:Trainer: Khyrstyna\nRaum: Kursraum 1\n<p><b><font size="3"></font></b></p><p style="font-size: 12px\;"><b><font size="3"></font></b></p><p></p><!--StartFragment--><p style="font-size: 12px\;"><br/></p><p><br/><font size="3"><br/><!--StartFragment--></font></p><p><strong><font size="3">Bauch Fit – Starke Mitte\, starker Körper!</font></strong></p><p><font size="3">In diesem intensiven Workout wird deine Bauchmuskulatur zum Brennen gebracht! Mit gezielten Übungen für gerade und seitliche Bauchmuskeln trainierst du sowohl im Stand als auch auf der Matte. Abgerundet wird das Training durch Rückenübungen\, die deine Körpermitte zusätzlich stabilisieren.</font></p><p><strong><font size="3">Melde dich an und arbeite an deiner starken Mitte!</font></strong></p><!--EndFragment--><p><font size="3"><br/></font></p><p><br/></p><p></p><p style="font-size: 12px\;"><font size="2"><br/></font></p><p style="font-size: 12px\;"><font size="3">Wenn Du noch kein Mitglied bei uns bist\, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse\, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf\, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</font></p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p><b><font size="3"></font></b></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p></p>
-LOCATION:Workout Wasserwelt\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119606-20260624T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T150000Z
 DTEND:20260624T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3067,17 +3058,8 @@ DESCRIPTION:Trainer: DANNI\nRaum: Kursraum 2\n<p><font size="3"></font></p><p st
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124476-20260624T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
-DTSTART:20260624T153000Z
-DTEND:20260624T155500Z
-SUMMARY:[Wasserwelt] Tabata
-DESCRIPTION:Trainer: Khyrstyna\nRaum: Kursraum 1\n<p><br/></p><!--StartFragment--><h3><strong>Tabata - Intensität pur</strong></h3><p><br/></p><p><strong>Dauer:</strong> 25 Minuten<br/><strong>Level:</strong> Für alle Fitnesslevels geeignet (mit Optionen zur Anpassung)<br/><strong>Struktur:</strong> 3 Tabata-Runden (je 4 Minuten)\, Warm-up &amp\; Cool-down inklusive</p><p><strong>Beschreibung:</strong></p><p><br/>Schnell\, intensiv\, effektiv – dieser 25-minütige Tabata-Kurs bringt dich mit kurzen\, hochintensiven Intervallen ordentlich ins Schwitzen! Nach einem kurzen Warm-up erwarten dich <strong>3 Tabata-Sets</strong> à 4 Minuten: 20 Sekunden Belastung\, 10 Sekunden Pause\, 8 Runden – pro Set. Jedes Tabata fokussiert sich auf unterschiedliche Schwerpunkte wie <strong>Cardio\, Kraft &amp\; Core</strong>.</p><p><br/></p><p>Ob du deine Ausdauer verbessern\, Fett verbrennen oder einfach mal Dampf ablassen willst – dieser Kurs liefert maximale Ergebnisse in minimaler Zeit. Perfekt für alle\, die wenig Zeit haben\, aber trotzdem alles geben wollen!</p><!--EndFragment--><p><br/></p><p><br/></p>
-LOCATION:Workout Wasserwelt\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115622-20260624T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T160000Z
 DTEND:20260624T165500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3086,7 +3068,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119654-20260624T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T160000Z
 DTEND:20260624T165000Z
 SUMMARY:[Wasserwelt] Step 1\,5 Mittelstufe
@@ -3094,17 +3076,8 @@ DESCRIPTION:Trainer: DANNI\nRaum: Kursraum 2\n<p><br/></p><p><!--EndFragment--><
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
-UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119702-20260624T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
-DTSTART:20260624T170000Z
-DTEND:20260624T180000Z
-SUMMARY:[Wasserwelt] CYCLE
-DESCRIPTION:Trainer: UTE\nRaum: Kursraum 2\n<p><span style="font-size: medium\;float: none\;"></span></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;"></span></p><p style="font-size: 12px\;"><b><font size="3"></font></b></p><p></p><p><b><font size="3"></font></b></p><p><br/><br/><!--StartFragment--><span style="font-size: large\;float: none\;">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7\, H9)</span><!--EndFragment--><br/><br/><br/><span style="font-size: medium\;">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden.</span><br/></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;"><br/></span></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;">Mit der Anmeldung zum Kurs bekommst du eine Bestätigungsmail\, die einen Link enthält\, mit der du deinen Polargurt direkt für den Kurs anmelden kannst. </span><br/></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;"><b><br/></b></span></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;"><b>Cycle</b></span></p><div style="font-size: 12px\;"><font size="3" color="#000000"><b></b></font><p style="font-size: medium\;">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen\, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p></div><!--EndFragment--><p><br/></p><p><br/></p><p><span style="font-size: 12.0pt\;color: #555555\;">Wenn Du noch kein Mitglied bei uns bist\, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse\, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf\, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span></p><p><span style="font-size: 12.0pt\;"></span></p><p></p><p></p><p><br/></p><p></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br style="font-size: 12px\;"/></p><p><br/></p><p></p><p style="font-size: 12px\;"><span style="font-size: medium\;float: none\;"><br/></span></p><p style="font-size: 12px\;"><br/></p><div><p><br/></p></div>
-LOCATION:Workout Wasserwelt\, Braunschweig
-END:VEVENT
-BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119751-20260624T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260624T170000Z
 DTEND:20260624T181500Z
 SUMMARY:[Wasserwelt] Yin Yang Yoga
@@ -3113,7 +3086,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119898-20260625T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T073000Z
 DTEND:20260625T090000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -3122,34 +3095,34 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116730-20260625T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T080000Z
 DTEND:20260625T082500Z
-SUMMARY:[Wasserwelt] Aqua Power
-DESCRIPTION:Trainer: Khyrstyna\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
+SUMMARY:[Wasserwelt] [Neu] Aqua Power
+DESCRIPTION:Trainer: Thomas\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116781-20260625T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T083000Z
 DTEND:20260625T085500Z
-SUMMARY:[Wasserwelt] Aqua Power
-DESCRIPTION:Trainer: Khyrstyna\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
+SUMMARY:[Wasserwelt] [Neu] Aqua Power
+DESCRIPTION:Trainer: Thomas\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117591-20260625T110000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T110000Z
 DTEND:20260625T114500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Fit
+SUMMARY:[Wasserwelt] Aqua Fit
 DESCRIPTION:Trainer: Chris\nRaum: Aktivbecken\n<p><br/></p><p><br/></p><!--StartFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT </b></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><p><br style="font-size: 12px\;"/><!--EndFragment--><br/></p><p><br/></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117399-20260625T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T150000Z
 DTEND:20260625T155500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3158,7 +3131,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124767-20260625T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T150000Z
 DTEND:20260625T155000Z
 SUMMARY:[Wasserwelt] Hula-Hoop Fitness
@@ -3167,7 +3140,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117505-20260625T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T160000Z
 DTEND:20260625T164500Z
 SUMMARY:[Wasserwelt] Kettle Bell Power
@@ -3176,7 +3149,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119996-20260625T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T160000Z
 DTEND:20260625T170000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3185,7 +3158,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118350-20260625T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260625T170000Z
 DTEND:20260625T181500Z
 SUMMARY:[Wasserwelt] CYCLE (75 min.)
@@ -3194,7 +3167,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118886-20260626T064500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T064500Z
 DTEND:20260626T072500Z
 SUMMARY:[Wasserwelt] Aerobic
@@ -3203,7 +3176,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120045-20260626T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T070000Z
 DTEND:20260626T075500Z
 SUMMARY:[Wasserwelt] Schulter-Nacken-Kurs
@@ -3212,7 +3185,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116895-20260626T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T073000Z
 DTEND:20260626T075500Z
 SUMMARY:[Wasserwelt] BBP-EXPRESS
@@ -3221,7 +3194,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116949-20260626T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T080000Z
 DTEND:20260626T090000Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3230,7 +3203,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-125451-20260626T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T080000Z
 DTEND:20260626T090000Z
 SUMMARY:[Wasserwelt] Drums Alive
@@ -3239,7 +3212,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118405-20260626T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T153000Z
 DTEND:20260626T163000Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -3248,7 +3221,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120192-20260626T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260626T153000Z
 DTEND:20260626T170000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -3257,7 +3230,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120242-20260627T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260627T080000Z
 DTEND:20260627T093000Z
 SUMMARY:[Wasserwelt] Yin-Yoga
@@ -3266,25 +3239,25 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115761-20260628T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T073000Z
 DTEND:20260628T075500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Power
+SUMMARY:[Wasserwelt] Aqua Power
 DESCRIPTION:Trainer: BIANCA\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115814-20260628T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T080000Z
 DTEND:20260628T082500Z
 SUMMARY:[Wasserwelt] [Neu] Aqua Power
-DESCRIPTION:Trainer: Nevio\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
+DESCRIPTION:Trainer: BIANCA\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118049-20260628T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T080000Z
 DTEND:20260628T091500Z
 SUMMARY:[Wasserwelt] Yoga
@@ -3293,7 +3266,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120292-20260628T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T080000Z
 DTEND:20260628T091500Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -3302,7 +3275,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124631-20260628T151500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260628T151500Z
 DTEND:20260628T160000Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -3311,7 +3284,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117010-20260629T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T070000Z
 DTEND:20260629T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -3320,7 +3293,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118553-20260629T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T070000Z
 DTEND:20260629T075500Z
 SUMMARY:[Wasserwelt] Full Body-Fit
@@ -3329,7 +3302,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117067-20260629T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T080000Z
 DTEND:20260629T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -3338,7 +3311,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117120-20260629T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T150000Z
 DTEND:20260629T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -3347,7 +3320,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117171-20260629T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T153000Z
 DTEND:20260629T162500Z
 SUMMARY:[Wasserwelt] Step 2 Fortgeschrittene
@@ -3356,7 +3329,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117224-20260629T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T153000Z
 DTEND:20260629T162500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -3365,7 +3338,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117276-20260629T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T163000Z
 DTEND:20260629T172500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -3374,7 +3347,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123685-20260629T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T163000Z
 DTEND:20260629T171000Z
 SUMMARY:[Wasserwelt] Kettle Bell Basic
@@ -3383,16 +3356,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123137-20260629T172000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T172000Z
 DTEND:20260629T182000Z
-SUMMARY:[Wasserwelt] Cycle - Dance / Electro
+SUMMARY:[Wasserwelt] [Neu] Cycle - Special
 DESCRIPTION:Trainer: Maria\nRaum: Kursraum 2\n<p><font size="4"><br/></font></p><!--StartFragment--><p class="isSelectedEnd"><font size="4"><strong><span>Cycle mit Maria &#128692\;&#8205\;♀️&#127926\;</span></strong></font></p><p class="isSelectedEnd"><font size="4"><span>Erlebe ein energiegeladenes Indoor-Cycling-Workout mit Maria! In dieser 60-minütigen Einheit erwarten dich intensive Intervallfahrten\, motivierende Beats und jede Menge Spaß auf dem Bike. Egal ob Anfänger oder Fortgeschritten – du bestimmst deinen Widerstand und gehst an deine persönlichen Grenzen.</span></font></p><p class="isSelectedEnd"><font size="4"><span>Das Besondere: Jede Stunde steht unter einem neuen musikalischen Motto\, das dich durch das Training trägt und für extra Motivation sorgt!</span></font></p><h3><font size="4"><span>Special Dates im Juni</span></font></h3><p class="isSelectedEnd"><font size="4"><strong><span>01.06. – Dance / Electro ⚡</span></strong><br/><span>Starte kraftvoll in den Monat mit treibenden Beats\, energiegeladenen Drops und echtem Festival-Feeling auf dem Bike.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>08.06. – Indie Disco ✨</span></strong><br/><span>Coole Indie-Hymnen treffen auf tanzbare Disco-Vibes. Perfekt für alle\, die abwechslungsreiche Sounds und gute Laune lieben.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>15.06. – Dance / Electro &#128293\;</span></strong><br/><span>Noch mehr Energie\, noch mehr Rhythmus! Freu dich auf eine schweißtreibende Session voller Motivation und mitreißender Tracks.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>21.06. – Singalong Bangers &#127908\;</span></strong><br/><span>Songs\, die jede*r kennt und laut mitsingen möchte. Eine Stunde voller Gänsehautmomente\, Spaß und maximaler Motivation.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>22.06. – Deutschrap x Pop &#127911\;</span></strong><br/><span>Die perfekte Mischung aus starken Deutschrap-Beats und eingängigen Pop-Hits. Druckvolle Anstiege und lockere Fahrten garantiert.</span></font></p><p class="isSelectedEnd"><font size="4"><strong><span>29.06. – Dance / Electro &#128692\;&#8205\;♀️⚡</span></strong><br/><span>Zum Monatsabschluss heißt es noch einmal Vollgas geben. Feier mit uns eine energiegeladene Ride-Party und bring dein Bike zum Glühen!</span></font></p><p><font size="4"><span>Sichere dir deinen Platz und erlebe Cycling\, das Fitness\, Musik und Motivation perfekt miteinander verbindet.</span></font></p><!--EndFragment--><p><br/></p><p><br/></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101610-20260629T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260629T180000Z
 DTEND:20260629T184500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -3401,7 +3374,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124346-20260630T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T070000Z
 DTEND:20260630T075500Z
 SUMMARY:[Wasserwelt] Rückenfit Yoga
@@ -3410,7 +3383,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101711-20260630T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T080000Z
 DTEND:20260630T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3419,7 +3392,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119043-20260630T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T080000Z
 DTEND:20260630T093000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3428,7 +3401,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124419-20260630T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T080000Z
 DTEND:20260630T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -3437,7 +3410,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101812-20260630T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T083000Z
 DTEND:20260630T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3446,7 +3419,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-107183-20260630T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T150000Z
 DTEND:20260630T155500Z
 SUMMARY:[Wasserwelt] ZUMBA®
@@ -3455,7 +3428,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119092-20260630T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T150000Z
 DTEND:20260630T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3464,7 +3437,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119189-20260630T155500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T155500Z
 DTEND:20260630T165500Z
 SUMMARY:[Wasserwelt] POUND Fitness
@@ -3473,16 +3446,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124743-20260630T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T160000Z
 DTEND:20260630T162500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Power
+SUMMARY:[Wasserwelt] Aqua Power
 DESCRIPTION:Trainer: Thomas\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119238-20260630T160500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T160500Z
 DTEND:20260630T173500Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3491,16 +3464,16 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124744-20260630T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T163000Z
 DTEND:20260630T165500Z
-SUMMARY:[Wasserwelt] [Neu] Aqua Power
+SUMMARY:[Wasserwelt] Aqua Power
 DESCRIPTION:Trainer: Thomas\nRaum: Aktivbecken\n<!--StartFragment--><!--EndFragment--><!--EndFragment--><!--EndFragment--><p style="font-size: medium\;">​*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. Die Kursanmeldung ist nur für ein Zeitfenster möglich! </p><p style="font-size: medium\;"><b><br/></b></p><p style="font-size: medium\;"><b>AQUA FIT / AQUA POWER</b></p><p style="font-size: medium\;"></p><p style="font-size: medium\;">Das Element Wasser eignet sich hervorragend für ein schonendes und effektives Training. Durch den Auftrieb im Wasser werden die Gelenke entlastet\, der Wasserwiderstand nimmt die Geschwindigkeit und hat zugleich eine verstärkende Wirkung für das Training. In diesem Kurs wird die Ausdauer trainiert\, aber auch die Muskulatur gekräftigt.</p><p style="font-size: medium\;"><br/></p><p><br/></p><!--StartFragment--><p><font size="3">Kennst du schon unsere ClubConnector App?</font></p><p><font size="3">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen\, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden\, Trainertermine buchen\, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p><p style="font-size: medium\;"><b></b></p>
 LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116099-20260630T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260630T170000Z
 DTEND:20260630T181500Z
 SUMMARY:[Wasserwelt] Vinyasa Yoga
@@ -3509,7 +3482,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117911-20260701T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T070000Z
 DTEND:20260701T075500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -3518,7 +3491,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119308-20260701T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T070000Z
 DTEND:20260701T075000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3527,7 +3500,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119357-20260701T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T080000Z
 DTEND:20260701T085000Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -3536,7 +3509,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119406-20260701T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T080000Z
 DTEND:20260701T085000Z
 SUMMARY:[Wasserwelt] Koordinationstraining
@@ -3545,7 +3518,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119516-20260701T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T150000Z
 DTEND:20260701T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -3554,7 +3527,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119607-20260701T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T150000Z
 DTEND:20260701T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3563,7 +3536,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124477-20260701T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T153000Z
 DTEND:20260701T155500Z
 SUMMARY:[Wasserwelt] Tabata
@@ -3572,7 +3545,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115623-20260701T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T160000Z
 DTEND:20260701T165500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3581,7 +3554,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119655-20260701T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T160000Z
 DTEND:20260701T165000Z
 SUMMARY:[Wasserwelt] Step 1\,5 Mittelstufe
@@ -3590,7 +3563,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119703-20260701T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T170000Z
 DTEND:20260701T180000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3599,7 +3572,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119752-20260701T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260701T170000Z
 DTEND:20260701T181500Z
 SUMMARY:[Wasserwelt] Yin Yang Yoga
@@ -3608,7 +3581,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119801-20260702T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T070000Z
 DTEND:20260702T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -3617,7 +3590,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119899-20260702T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T073000Z
 DTEND:20260702T090000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -3626,7 +3599,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116731-20260702T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T080000Z
 DTEND:20260702T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3635,7 +3608,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119850-20260702T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T080000Z
 DTEND:20260702T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -3644,7 +3617,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116782-20260702T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T083000Z
 DTEND:20260702T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3653,7 +3626,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117592-20260702T110000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T110000Z
 DTEND:20260702T114500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -3662,7 +3635,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117400-20260702T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T150000Z
 DTEND:20260702T155500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3671,7 +3644,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117453-20260702T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T160000Z
 DTEND:20260702T165500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -3680,7 +3653,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117506-20260702T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T160000Z
 DTEND:20260702T164500Z
 SUMMARY:[Wasserwelt] Kettle Bell Power
@@ -3689,7 +3662,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118351-20260702T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T170000Z
 DTEND:20260702T181500Z
 SUMMARY:[Wasserwelt] CYCLE (75 min.)
@@ -3698,7 +3671,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119997-20260702T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260702T170000Z
 DTEND:20260702T180000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3707,7 +3680,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118887-20260703T064500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T064500Z
 DTEND:20260703T072500Z
 SUMMARY:[Wasserwelt] Aerobic
@@ -3716,7 +3689,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120046-20260703T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T070000Z
 DTEND:20260703T075500Z
 SUMMARY:[Wasserwelt] Schulter-Nacken-Kurs
@@ -3725,7 +3698,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116896-20260703T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T073000Z
 DTEND:20260703T075500Z
 SUMMARY:[Wasserwelt] BBP-EXPRESS
@@ -3734,7 +3707,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116950-20260703T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T080000Z
 DTEND:20260703T090000Z
 SUMMARY:[Wasserwelt] PILATES
@@ -3743,7 +3716,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120095-20260703T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T080000Z
 DTEND:20260703T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -3752,7 +3725,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118406-20260703T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T153000Z
 DTEND:20260703T163000Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -3761,7 +3734,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120193-20260703T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260703T153000Z
 DTEND:20260703T170000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -3770,7 +3743,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120243-20260704T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260704T080000Z
 DTEND:20260704T093000Z
 SUMMARY:[Wasserwelt] Yin-Yoga
@@ -3779,7 +3752,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115762-20260705T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T073000Z
 DTEND:20260705T075500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3788,7 +3761,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115815-20260705T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T080000Z
 DTEND:20260705T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3797,7 +3770,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118050-20260705T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T080000Z
 DTEND:20260705T091500Z
 SUMMARY:[Wasserwelt] Yoga
@@ -3806,7 +3779,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120293-20260705T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T080000Z
 DTEND:20260705T091500Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -3815,7 +3788,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124632-20260705T151500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260705T151500Z
 DTEND:20260705T160000Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -3824,7 +3797,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117011-20260706T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T070000Z
 DTEND:20260706T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -3833,7 +3806,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118554-20260706T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T070000Z
 DTEND:20260706T075500Z
 SUMMARY:[Wasserwelt] Full Body-Fit
@@ -3842,7 +3815,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117068-20260706T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T080000Z
 DTEND:20260706T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -3851,7 +3824,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117121-20260706T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T150000Z
 DTEND:20260706T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -3860,7 +3833,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117172-20260706T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T153000Z
 DTEND:20260706T162500Z
 SUMMARY:[Wasserwelt] Step 2 Fortgeschrittene
@@ -3869,7 +3842,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117225-20260706T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T153000Z
 DTEND:20260706T162500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -3878,7 +3851,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117277-20260706T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T163000Z
 DTEND:20260706T172500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -3887,7 +3860,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123686-20260706T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T163000Z
 DTEND:20260706T171000Z
 SUMMARY:[Wasserwelt] Kettle Bell Basic
@@ -3896,7 +3869,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124717-20260706T172000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T172000Z
 DTEND:20260706T182000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3905,7 +3878,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101611-20260706T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260706T180000Z
 DTEND:20260706T184500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -3914,7 +3887,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124347-20260707T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T070000Z
 DTEND:20260707T075500Z
 SUMMARY:[Wasserwelt] Rückenfit Yoga
@@ -3923,7 +3896,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101712-20260707T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T080000Z
 DTEND:20260707T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3932,7 +3905,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119044-20260707T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T080000Z
 DTEND:20260707T093000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3941,7 +3914,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124420-20260707T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T080000Z
 DTEND:20260707T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -3950,7 +3923,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101813-20260707T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T083000Z
 DTEND:20260707T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -3959,7 +3932,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-107184-20260707T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T150000Z
 DTEND:20260707T155500Z
 SUMMARY:[Wasserwelt] ZUMBA®
@@ -3968,7 +3941,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119093-20260707T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T150000Z
 DTEND:20260707T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -3977,7 +3950,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119190-20260707T155500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T155500Z
 DTEND:20260707T165500Z
 SUMMARY:[Wasserwelt] POUND Fitness
@@ -3986,7 +3959,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119239-20260707T160500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T160500Z
 DTEND:20260707T173500Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -3995,7 +3968,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116100-20260707T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260707T170000Z
 DTEND:20260707T181500Z
 SUMMARY:[Wasserwelt] Vinyasa Yoga
@@ -4004,7 +3977,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117912-20260708T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T070000Z
 DTEND:20260708T075500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -4013,7 +3986,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119309-20260708T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T070000Z
 DTEND:20260708T075000Z
 SUMMARY:[Wasserwelt] BBP
@@ -4022,7 +3995,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119358-20260708T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T080000Z
 DTEND:20260708T085000Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -4031,7 +4004,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119407-20260708T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T080000Z
 DTEND:20260708T085000Z
 SUMMARY:[Wasserwelt] Koordinationstraining
@@ -4040,7 +4013,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119517-20260708T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T150000Z
 DTEND:20260708T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -4049,7 +4022,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119608-20260708T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T150000Z
 DTEND:20260708T155000Z
 SUMMARY:[Wasserwelt] BBP
@@ -4058,7 +4031,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119470-20260708T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T153000Z
 DTEND:20260708T155500Z
 SUMMARY:[Wasserwelt] POWER-TABATA
@@ -4067,7 +4040,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115624-20260708T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T160000Z
 DTEND:20260708T165500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -4076,7 +4049,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119656-20260708T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T160000Z
 DTEND:20260708T165000Z
 SUMMARY:[Wasserwelt] Step 1\,5 Mittelstufe
@@ -4085,7 +4058,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119704-20260708T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T170000Z
 DTEND:20260708T180000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -4094,7 +4067,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119753-20260708T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260708T170000Z
 DTEND:20260708T181500Z
 SUMMARY:[Wasserwelt] Yin Yang Yoga
@@ -4103,7 +4076,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119802-20260709T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T070000Z
 DTEND:20260709T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit
@@ -4112,7 +4085,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119900-20260709T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T073000Z
 DTEND:20260709T090000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -4121,7 +4094,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116732-20260709T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T080000Z
 DTEND:20260709T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -4130,7 +4103,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119851-20260709T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T080000Z
 DTEND:20260709T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -4139,7 +4112,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116783-20260709T083000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T083000Z
 DTEND:20260709T085500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -4148,7 +4121,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117593-20260709T110000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T110000Z
 DTEND:20260709T114500Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -4157,7 +4130,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117401-20260709T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T150000Z
 DTEND:20260709T155500Z
 SUMMARY:[Wasserwelt] PILATES
@@ -4166,7 +4139,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117454-20260709T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T160000Z
 DTEND:20260709T165500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -4175,7 +4148,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117507-20260709T160000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T160000Z
 DTEND:20260709T164500Z
 SUMMARY:[Wasserwelt] Kettle Bell Power
@@ -4184,7 +4157,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118352-20260709T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T170000Z
 DTEND:20260709T181500Z
 SUMMARY:[Wasserwelt] CYCLE (75 min.)
@@ -4193,7 +4166,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-119998-20260709T170000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260709T170000Z
 DTEND:20260709T180000Z
 SUMMARY:[Wasserwelt] BBP
@@ -4202,7 +4175,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118888-20260710T064500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T064500Z
 DTEND:20260710T072500Z
 SUMMARY:[Wasserwelt] Aerobic
@@ -4211,7 +4184,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120047-20260710T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T070000Z
 DTEND:20260710T075500Z
 SUMMARY:[Wasserwelt] Schulter-Nacken-Kurs
@@ -4220,7 +4193,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116897-20260710T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T073000Z
 DTEND:20260710T075500Z
 SUMMARY:[Wasserwelt] BBP-EXPRESS
@@ -4229,7 +4202,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-116951-20260710T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T080000Z
 DTEND:20260710T090000Z
 SUMMARY:[Wasserwelt] PILATES
@@ -4238,7 +4211,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120096-20260710T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T080000Z
 DTEND:20260710T090000Z
 SUMMARY:[Wasserwelt] Langhantel
@@ -4247,7 +4220,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118407-20260710T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T153000Z
 DTEND:20260710T163000Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -4256,7 +4229,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120194-20260710T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260710T153000Z
 DTEND:20260710T170000Z
 SUMMARY:[Wasserwelt] Yoga & Klangmeditation
@@ -4265,7 +4238,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120244-20260711T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260711T080000Z
 DTEND:20260711T093000Z
 SUMMARY:[Wasserwelt] Yin-Yoga
@@ -4274,7 +4247,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115763-20260712T073000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T073000Z
 DTEND:20260712T075500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -4283,7 +4256,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-115816-20260712T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T080000Z
 DTEND:20260712T082500Z
 SUMMARY:[Wasserwelt] Aqua Power
@@ -4292,7 +4265,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118051-20260712T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T080000Z
 DTEND:20260712T091500Z
 SUMMARY:[Wasserwelt] Yoga
@@ -4301,7 +4274,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-120294-20260712T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T080000Z
 DTEND:20260712T091500Z
 SUMMARY:[Wasserwelt] CYCLE_
@@ -4310,7 +4283,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124633-20260712T151500@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260712T151500Z
 DTEND:20260712T160000Z
 SUMMARY:[Wasserwelt] Aqua Fit
@@ -4319,7 +4292,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117012-20260713T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T070000Z
 DTEND:20260713T075500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -4328,7 +4301,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-118555-20260713T070000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T070000Z
 DTEND:20260713T075500Z
 SUMMARY:[Wasserwelt] Full Body-Fit
@@ -4337,7 +4310,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117069-20260713T080000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T080000Z
 DTEND:20260713T083000Z
 SUMMARY:[Wasserwelt] Stretch & Relax
@@ -4346,7 +4319,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117122-20260713T150000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T150000Z
 DTEND:20260713T152500Z
 SUMMARY:[Wasserwelt] Bauch-Fit
@@ -4355,7 +4328,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117173-20260713T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T153000Z
 DTEND:20260713T162500Z
 SUMMARY:[Wasserwelt] Step 2 Fortgeschrittene
@@ -4364,7 +4337,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117226-20260713T153000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T153000Z
 DTEND:20260713T162500Z
 SUMMARY:[Wasserwelt] Rücken-Fit_
@@ -4373,7 +4346,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-117278-20260713T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T163000Z
 DTEND:20260713T172500Z
 SUMMARY:[Wasserwelt] ZUMBA® _
@@ -4382,7 +4355,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-123687-20260713T163000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T163000Z
 DTEND:20260713T171000Z
 SUMMARY:[Wasserwelt] Kettle Bell Basic
@@ -4391,7 +4364,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-124718-20260713T172000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T172000Z
 DTEND:20260713T182000Z
 SUMMARY:[Wasserwelt] CYCLE
@@ -4400,7 +4373,7 @@ LOCATION:Workout Wasserwelt\, Braunschweig
 END:VEVENT
 BEGIN:VEVENT
 UID:workout-e428e667-c6d7-4fcb-8328-a52b8e19041d-101612-20260713T180000@workout-bs.de
-DTSTAMP:20260624T063941Z
+DTSTAMP:20260625T064159Z
 DTSTART:20260713T180000Z
 DTEND:20260713T184500Z
 SUMMARY:[Wasserwelt] Aqua Fit
