@@ -8082,7 +8082,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><span style=\"font-size: medium;\"><span id=\"selectionBoundary_1699607312162_519819804964412\" class=\"rangySelectionBoundary\">&#65279;</span>Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</span><br/></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Kennst du schon unsere ClubConnector App?</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">1. ClubConnector-App im App-Store runterladen</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">2. QR Code im Studio einscannen</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -8111,8 +8111,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-06-19T07:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 79267,
@@ -8154,8 +8153,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -8224,8 +8223,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Wirbelsäulenspezifische Kräftigungs-, Dehnungs- und Mobilisationsübungen zum Abbau schmerzverursachender Verspannungen und Prävention von Rückenbeschwerden.</font></font></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -8283,8 +8282,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -8324,7 +8323,7 @@
       "BlockIstFrei": 0,
       "Ressourcen": [
         "161,Christina Zubiria Barrera,1",
-        "46,Kursraum 1,0"
+        "78,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
       "Teilnehmer": 0,
@@ -8354,7 +8353,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><span style=\"vertical-align: baseline;\"><b><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jamfya®</font></b></span></div><div><span style=\"vertical-align: baseline;\"><b><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></b></span></div><!--StartFragment--><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">ist ein effektives Tanz-Fitness-Programm, das komplett aus original jamaikanischen Dancehall-Steps besteht. Durch die richtige Kombination dieser Schritte, kommt ein perfektes Ganzkörper- und Cardio-Workout zustande, das dich richtig ins Schwitzen bringt.</font></p><p class=\"font_8\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Die treibenden Bässe der Riddims tragen dich dabei und so werden auch die anstrengendsten Choreos zu purem Spaß.</font></span></span></span></span></p><p class=\"font_8\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Der Name ist kurz für Jamaican Fyah (Jamaikanisches Feuer) und alle die schon mal einen Kurs mitgemacht haben, wissen, dass dieses Feuer so einiges verbrennt.</font></span></span></span></span></p><p class=\"font_8\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><span style=\"vertical-align: baseline;\"></span></font></span></span></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p class=\"font_8\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Die Köpfe hinter <span style=\"vertical-align: baseline;\"><b>Jamfya® </b></span>sind Vika Specht (Model und Tänzerin) und Dave White (Streetdance Weltmeister und Fitnessexperte).</font></span></span></span></span></p><p class=\"font_8\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Gemeinsam sehen sie es als ihre Aufgabe Euch das bestmögliche Tanz-Workout zu bieten.</font></span></span></span></span></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><span class=\"color_15\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Charakteristisch für <span style=\"vertical-align: baseline;\"><b>Jamfya®</b></span> ist die durchgehend tief in den Knien stehende Haltung (Soft Knees), die für brennende Oberschenkel sorgt, als auch d</font></span></span></p><p><span class=\"color_15\" style=\"vertical-align: baseline;\"><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">ie vielen Körperwellen, die die Bauchmuskeln mindestens so sehr beanspruchen wie Situps und Crunches. <span style=\"vertical-align: baseline;\"><b>#instantsixpack</b></span></font></span></p><div><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><b><br/><br/><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\">Neben dem Spaß- und Fitnessfaktor steht bei diesem Programm die Authentizität an erster Stelle. Die Schritte wurden nicht extra fürs Fitnessstudio entwickelt oder vereinfacht. Sie kommen direkt aus den Straßen Jamaikas und sind somit zu </span></span></span></span><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><b>100% Real</b></span></span></span></span></span><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span style=\"vertical-align: baseline;\"><span class=\"color_15\" style=\"vertical-align: baseline;\">.</span></span></span></span><br/><br/></b><br/><span style=\"float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><br/><br/><br/><br/><br/></font><p></p></div><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></font></p><p></p><p></p><p><br style=\"font-size: 12px;\"/><!--EndFragment--><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -8365,14 +8364,14 @@
           "Bezeichnung": "Christina Zubiria Barrera"
         },
         {
-          "Id": 46,
+          "Id": 78,
           "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 1"
+          "Bezeichnung": "Kursraum 2"
         }
       ],
       "RessourcesNrs": [
         161,
-        46
+        78
       ],
       "MitarbeiterRessourcen": [
         {
@@ -8383,8 +8382,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-06-19T16:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 79466,
@@ -8471,7 +8469,7 @@
         "46,Kursraum 1,0"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 3,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#009cc4",
@@ -8527,7 +8525,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 22,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-06-21T08:00:00.000Z"
     },
     {
@@ -12516,7 +12514,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 142,
@@ -12767,7 +12765,6 @@
       "SerienterminNr": 561,
       "BlockIstFrei": 0,
       "Ressourcen": [
-        "161,Christina Zubiria Barrera,1",
         "46,Kursraum 1,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
@@ -12801,13 +12798,8 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
-        {
-          "Id": 161,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "Christina Zubiria Barrera"
-        },
         {
           "Id": 46,
           "Mitarbeiter": 0,
@@ -12815,16 +12807,9 @@
         }
       ],
       "RessourcesNrs": [
-        161,
         46
       ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 161,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "Christina Zubiria Barrera"
-        }
-      ],
+      "MitarbeiterRessourcen": [],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
       "FreiePlaetze": 20,
@@ -24804,7 +24789,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 11,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -24831,7 +24816,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\"><b>Schulter-Nacken-Kurs</b></font></p><p>Du leidest unter Verspannungen im Schulter-Nacken-Bereich und diesem Bereich etwas Gutes tun? Dann bist du hier genau richtig! In diesem Kurs lockern und kräftigen wir ​die obere Rückenpartie und lassen den Stress des Alltags hinter uns.</p><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -24860,8 +24845,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9,
-      "BuchungszeitraumDate": "2026-06-19T07:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 116895,
@@ -24903,10 +24887,10 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><b><font size=\"3\"></font></b></p><p><b><font size=\"3\"></font></b></p><!--StartFragment--><p style=\"font-size: 12px;\"><font size=\"3\">*Die anmeldepflichtigen Kurse können genau eine Woche im Voraus gebucht werden. </font></p><p style=\"font-size: 12px;\"><font size=\"3\"><br/></font></p><p style=\"font-size: 12px;\"><font size=\"3\"><b>BBP</b></font></p><p style=\"font-size: 12px;\"><font size=\"3\">Der Kurs-Klassiker „Bauch Beine Po“, kurz BBP, steht für intensives Kraftausdauertraining, welches den Bauch strafft, die Oberschenkel festigt und die Gesäßmuskulatur in Topform bringt. Im Express-Kurs schaffen wir dies im Schnelldurchlauf.</font></p><!--EndFragment--><p><span style=\"font-size: 12.0pt;color: #555555;\"><br/></span></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br/></p><p><br style=\"font-size: 12px;\"/></p><!--StartFragment--><p style=\"font-size: 12px;\"><br/></p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -24932,8 +24916,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 14,
-      "BuchungszeitraumDate": "2026-06-19T07:30:00.000Z"
+      "FreiePlaetze": 14
     },
     {
       "Nr": 116949,
@@ -24975,7 +24958,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p></p><p><b style=\"font-size: medium;\">Pilates</b><br/></p><p><br/></p><p></p><p><span style=\"font-size: medium;float: none;\"></span></p><p style=\"font-size: medium;\">Ein Workout, in dem Atemtechnik, Kraftübungen, Koordination und Stretching Bestand haben. Durch diese Verbindung wird Pilates zu einem ganzheitlichen Training für jeden Teilnehmer. In einer Pilates Einheit wird der ganze Körper systematisch trainiert.</p><p style=\"font-size: medium;\"><br/><br/><!--StartFragment--><span style=\"font-size: 16px;float: none;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><!--EndFragment--><br/><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -25004,8 +24987,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 5,
-      "BuchungszeitraumDate": "2026-06-19T08:00:00.000Z"
+      "FreiePlaetze": 5
     },
     {
       "Nr": 125451,
@@ -25047,7 +25029,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\"><br/><br/><!--StartFragment--></font></p><p><font size=\"4\"><em><b><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive – </span><span class=\"BZ_Pyq_fadeIn\">60 </span><span class=\"BZ_Pyq_fadeIn\">Minuten </span><span class=\"BZ_Pyq_fadeIn\">Rhythmus &amp; </span><span class=\"BZ_Pyq_fadeIn\">Fitness</span></b></em><span class=\"BZ_Pyq_fadeIn\"><b> </b></span></font></p><p><font size=\"3\"><br/><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive </span><span class=\"BZ_Pyq_fadeIn\">ist </span><span class=\"BZ_Pyq_fadeIn\">ein </span><span class=\"BZ_Pyq_fadeIn\">energiegeladener </span><span class=\"BZ_Pyq_fadeIn\">Fitnesskurs, </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">einfache </span><span class=\"BZ_Pyq_fadeIn\">Trommelrhythmen </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">dynamischen </span><span class=\"BZ_Pyq_fadeIn\">Bewegungen </span><span class=\"BZ_Pyq_fadeIn\">verbindet. </span><span class=\"BZ_Pyq_fadeIn\">In </span><span class=\"BZ_Pyq_fadeIn\">diesem </span><span class=\"BZ_Pyq_fadeIn\">60-</span><span class=\"BZ_Pyq_fadeIn\">minütigen </span><span class=\"BZ_Pyq_fadeIn\">Workout </span><span class=\"BZ_Pyq_fadeIn\">wird </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">Drumsticks </span><span class=\"BZ_Pyq_fadeIn\">auf </span><span class=\"BZ_Pyq_fadeIn\">Gymnastikbälle </span><span class=\"BZ_Pyq_fadeIn\">getrommelt </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">gleichzeitig </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">ganze </span><span class=\"BZ_Pyq_fadeIn\">Körper </span><span class=\"BZ_Pyq_fadeIn\">aktiviert. </span><span class=\"BZ_Pyq_fadeIn\">Die </span><span class=\"BZ_Pyq_fadeIn\">Kombination </span><span class=\"BZ_Pyq_fadeIn\">aus </span><span class=\"BZ_Pyq_fadeIn\">Musik, </span><span class=\"BZ_Pyq_fadeIn\">Rhythmus </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">funktionellen </span><span class=\"BZ_Pyq_fadeIn\">Übungen </span><span class=\"BZ_Pyq_fadeIn\">fördert </span><span class=\"BZ_Pyq_fadeIn\">Ausdauer, </span><span class=\"BZ_Pyq_fadeIn\">Koordination </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Kraft – </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">macht </span><span class=\"BZ_Pyq_fadeIn\">dabei </span><span class=\"BZ_Pyq_fadeIn\">jede </span><span class=\"BZ_Pyq_fadeIn\">Menge </span><span class=\"BZ_Pyq_fadeIn\">Spaß. &#127926;</span></font></p><p><font size=\"3\"><br/></font></p><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Der </span><span class=\"BZ_Pyq_fadeIn\">Kurs </span><span class=\"BZ_Pyq_fadeIn\">eignet </span><span class=\"BZ_Pyq_fadeIn\">sich </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">alle </span><span class=\"BZ_Pyq_fadeIn\">Fitnesslevels, </span><span class=\"BZ_Pyq_fadeIn\">da </span><span class=\"BZ_Pyq_fadeIn\">die </span><span class=\"BZ_Pyq_fadeIn\">Bewegungen </span><span class=\"BZ_Pyq_fadeIn\">leicht </span><span class=\"BZ_Pyq_fadeIn\">zu </span><span class=\"BZ_Pyq_fadeIn\">erlernen </span><span class=\"BZ_Pyq_fadeIn\">sind </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">individuell </span><span class=\"BZ_Pyq_fadeIn\">angepasst </span><span class=\"BZ_Pyq_fadeIn\">werden </span><span class=\"BZ_Pyq_fadeIn\">können. </span><span class=\"BZ_Pyq_fadeIn\">Neben </span><span class=\"BZ_Pyq_fadeIn\">dem </span><span class=\"BZ_Pyq_fadeIn\">Training </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Herz-</span><span class=\"BZ_Pyq_fadeIn\">Kreislauf </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Muskulatur </span><span class=\"BZ_Pyq_fadeIn\">sorgt </span><span class=\"BZ_Pyq_fadeIn\">Drums </span><span class=\"BZ_Pyq_fadeIn\">Alive </span><span class=\"BZ_Pyq_fadeIn\">auch </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Stressabbau </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">gute </span><span class=\"BZ_Pyq_fadeIn\">Laune.</span></font></p><p><font size=\"3\"><br/></font></p><p><strong><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Inhalte </span><span class=\"BZ_Pyq_fadeIn\">des </span><span class=\"BZ_Pyq_fadeIn\">Kurses:</span></font></strong></p><ul><font size=\"3\"><br/></font><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Rhythmisches </span><span class=\"BZ_Pyq_fadeIn\">Trommeln </span><span class=\"BZ_Pyq_fadeIn\">auf </span><span class=\"BZ_Pyq_fadeIn\">Gymnastikbällen </span><span class=\"BZ_Pyq_fadeIn\">mit </span><span class=\"BZ_Pyq_fadeIn\">Drumsticks </span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Ganzkörper-</span><span class=\"BZ_Pyq_fadeIn\">Workout </span><span class=\"BZ_Pyq_fadeIn\">für </span><span class=\"BZ_Pyq_fadeIn\">Ausdauer, </span><span class=\"BZ_Pyq_fadeIn\">Kraft </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Koordination</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Einfache </span><span class=\"BZ_Pyq_fadeIn\">Choreografien </span><span class=\"BZ_Pyq_fadeIn\">zu </span><span class=\"BZ_Pyq_fadeIn\">motivierender </span><span class=\"BZ_Pyq_fadeIn\">Musik</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Förderung </span><span class=\"BZ_Pyq_fadeIn\">von </span><span class=\"BZ_Pyq_fadeIn\">Konzentration </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Rhythmusgefühl</span></font></p></li><li><p><font size=\"3\"><span class=\"BZ_Pyq_fadeIn\">Spaß </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">der </span><span class=\"BZ_Pyq_fadeIn\">Gruppe </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">effektiver </span><span class=\"BZ_Pyq_fadeIn\">Stressabbau</span></font></p></li></ul><p><font size=\"3\"><br/><strong><span class=\"BZ_Pyq_fadeIn\">Level:</span></strong><span class=\"BZ_Pyq_fadeIn\"> </span><span class=\"BZ_Pyq_fadeIn\">Für </span><span class=\"BZ_Pyq_fadeIn\">Anfänger </span><span class=\"BZ_Pyq_fadeIn\">und </span><span class=\"BZ_Pyq_fadeIn\">Fortgeschrittene </span><span class=\"BZ_Pyq_fadeIn\">geeignet</span></font></p><!--EndFragment--><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -25079,78 +25061,6 @@
       "FreiePlaetze": 9
     },
     {
-      "Nr": 118405,
-      "Start": "2026-06-26T15:30:00.000Z",
-      "Ende": "2026-06-26T16:30:00.000Z",
-      "Bezeichnung": "CYCLE_",
-      "Terminart_Nr": 173,
-      "SerienterminNr": 1508,
-      "BlockIstFrei": 0,
-      "Ressourcen": [
-        "130,BIANCA,1",
-        "77,Kursraum 2,0"
-      ],
-      "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 1,
-      "WLTeilnehmer": 0,
-      "BWLTeilnehmer": 0,
-      "Farbe": "#57c4e0",
-      "Altersbeschraenkung": 0,
-      "Buchungszeitraum": 0,
-      "BuchungszeitraumInTagen": 7,
-      "BuchungszeitraumBisInStunden": 1,
-      "UhrzeitEinschraenkung": null,
-      "PreisZahl": 0,
-      "IstKostenfreiAnzeige": 0,
-      "Warteliste": 1,
-      "IstEinzeltermin": 0,
-      "OnlineBuchbar": "nein",
-      "IstKurs": 1,
-      "AlsKursBuchbar": 1,
-      "IstBlockkurs": 0,
-      "BlockAnzahlTermine": null,
-      "Blocktyp": null,
-      "WartelisteMax": 0,
-      "KursbuchungAktiv": 0,
-      "Bezahlung": 1,
-      "MitgliedsOptionKurse": 2,
-      "MitgliedsOptionBlockkurse": 0,
-      "NutzungsrechteMeldung": null,
-      "TerminartNutzungsrechte": "",
-      "Infotext": "<p style=\"font-size: medium;\"></p><p style=\"font-size: 12px;\"><b><font size=\"3\"></font></b></p><p></p><p><span style=\"font-size: large;\">Die Teilnahme an diesem Kurs ist ausschließlich mit einem Polar-Brustgurt möglich! (H7, H9)</span><br/></p><p><b style=\"font-size: medium;\"><br/></b></p><p><b style=\"font-size: medium;\">CYCLE</b><br/></p><p style=\"font-size: medium;\"></p><p style=\"font-size: medium;\">Ist ein Ausdauersport auf stationären Fahrrädern. Trainiert wird unter Anleitung eines Trainers. Dieser gibt mittels Musik die Fahrweise (Treten im Sitzen, Wiegetritt) und die relative Höhe des Widerstands vor. Die tatsächliche Höhe des Widerstands wählt jedoch Jeder Fahrer selbst. Dadurch können Personen mit unterschiedlichem Leistungsvermögen gemeinsam trainieren. Somit ist Indoorcycling auch für Anfänger geeignet.</p><p style=\"font-size: medium;\"><br/></p><p><span style=\"font-size: 12.0pt;color: #555555;\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.</span><span style=\"font-size: 12.0pt;\"></span></p><p><br/></p><p><br/></p><!--StartFragment--><p><font size=\"3\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p>1. ClubConnector-App im App-Store runterladen</p><p>2. QR Code im Studio einscannen</p><p>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</p><p>4. Registrierungscode per SMS erhalten und App abschließend aktivieren</p><p>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</p><!--EndFragment--><p><br/></p><p><br/></p><!--StartFragment--><p style=\"font-size: 12px;\"><br/></p><p style=\"font-size: 12px;\"><br/></p><!--EndFragment--><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": false,
-      "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": false,
-      "AllRessources": [
-        {
-          "Id": 130,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "BIANCA"
-        },
-        {
-          "Id": 77,
-          "Mitarbeiter": 0,
-          "Bezeichnung": "Kursraum 2"
-        }
-      ],
-      "RessourcesNrs": [
-        130,
-        77
-      ],
-      "MitarbeiterRessourcen": [
-        {
-          "Id": 130,
-          "Mitarbeiter": 1,
-          "Bezeichnung": "BIANCA"
-        }
-      ],
-      "NichtMitarbeiterRessourcen": [],
-      "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 19,
-      "BuchungszeitraumDate": "2026-06-19T15:30:00.000Z"
-    },
-    {
       "Nr": 120192,
       "Start": "2026-06-26T15:30:00.000Z",
       "Ende": "2026-06-26T17:00:00.000Z",
@@ -25163,7 +25073,7 @@
         "203,NINA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 6,
+      "Teilnehmer": 0,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
@@ -25190,7 +25100,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Yoga &amp; Klangschalenmeditation (Leicht bis Mittel)</font></strong></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">In diesem besonderen Kurs verbinden sich sanfte Yogaübungen aus dem Hatha Yoga mit der tiefen, beruhigenden Wirkung von Klangschalen. Die harmonischen Schwingungen der Klänge unterstützen dich dabei, loszulassen, in die Entspannung zu sinken und deine Yogapraxis noch bewusster zu erleben.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Die Körperhaltungen (Asanas) werden achtsam aufgebaut und in verschiedenen Variationen gezeigt – so findest du immer die Form, die zu dir passt. Durch ruhige Bewegungsabläufe, bewusstes Atmen und den Klang der Schalen entsteht ein wohltuender Raum für Regeneration, innere Ruhe und neue Energie.</font></p><p><font size=\"4\"><br/></font></p><p><strong><font size=\"4\">Was dich erwartet:</font></strong></p><ul><li><p><font size=\"4\">Sanfte, achtsame Hatha Yoga Praxis mit Variationen für jedes Niveau</font></p></li><li><p><font size=\"4\">Tiefe Entspannung durch Klangschalen und geführte Meditation</font></p></li><li><p><font size=\"4\">Förderung von Körperbewusstsein, Balance und innerer Gelassenheit</font></p></li><li><p><font size=\"4\">Eine harmonische Verbindung von Bewegung, Atem und Klang</font></p></li></ul><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><strong>Geeignet für:</strong> Anfänger*innen und leicht Fortgeschrittene, die eine sanfte, zugleich wirkungsvolle Yogaerfahrung suchen und Körper, Geist und Seele in Einklang bringen möchten.</font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\"><br/></font></p><p><font size=\"4\">Wenn Du noch kein Mitglied bei uns bist, zahlst Du für eine Tageskarte 15€ und kannst sowohl die Kurse, als auch die Trainingsfläche nutzen. Bewahre den Beleg für die Tageskarte gut auf, der wird bei Anmeldung mit Deiner Startgebühr verrechnet.<br/><br/><br/><br/>Kennst du schon unsere ClubConnector App?<br/><br/>Jetzt wird die Kursbuchung noch einfacher.<br/><br/>1. ClubConnector-App im App-Store runterladen<br/><br/>2. QR Code im Studio einscannen<br/><br/>3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren<br/><br/>4. Registrierungscode per SMS erhalten und App abschließend aktivieren<br/><br/>5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></font></p><!--EndFragment--><p><font size=\"4\"><br/></font></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -25219,8 +25129,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 14,
-      "BuchungszeitraumDate": "2026-06-19T15:30:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 120242,
@@ -25308,7 +25217,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 10,
+      "WLTeilnehmer": 11,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -25451,7 +25360,7 @@
         "174,EVE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 12,
+      "Teilnehmer": 13,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25507,7 +25416,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 13,
+      "FreiePlaetze": 12,
       "BuchungszeitraumDate": "2026-06-21T08:00:00.000Z"
     },
     {
@@ -25596,7 +25505,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 15,
+      "WLTeilnehmer": 17,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -25739,7 +25648,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 2,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25795,7 +25704,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 18,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-06-22T07:00:00.000Z"
     },
     {
@@ -25811,7 +25720,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 14,
+      "Teilnehmer": 15,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -25867,7 +25776,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 11
+      "FreiePlaetze": 10
     },
     {
       "Nr": 117120,
@@ -26026,7 +25935,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 14,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26082,7 +25991,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 11,
       "BuchungszeitraumDate": "2026-06-22T15:30:00.000Z"
     },
     {
@@ -26098,7 +26007,7 @@
         "168,ÖZGÜL,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 2,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26154,7 +26063,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 23,
+      "FreiePlaetze": 22,
       "BuchungszeitraumDate": "2026-06-22T16:30:00.000Z"
     },
     {
@@ -26170,7 +26079,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 3,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#56c1dd",
@@ -26226,7 +26135,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 14,
       "BuchungszeitraumDate": "2026-06-22T16:30:00.000Z"
     },
     {
@@ -26315,7 +26224,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 10,
+      "WLTeilnehmer": 11,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -26386,7 +26295,7 @@
         "272,Dagmar,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 15,
+      "Teilnehmer": 17,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -26442,7 +26351,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 10,
+      "FreiePlaetze": 8,
       "BuchungszeitraumDate": "2026-06-23T07:00:00.000Z"
     },
     {
@@ -26459,7 +26368,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 8,
+      "WLTeilnehmer": 10,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -26674,7 +26583,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 6,
+      "WLTeilnehmer": 5,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -27032,7 +26941,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 2,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27088,7 +26997,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 18,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-06-23T16:05:00.000Z"
     },
     {
@@ -27104,7 +27013,7 @@
         "6,Thomas,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 19,
+      "Teilnehmer": 20,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27160,7 +27069,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 9,
+      "FreiePlaetze": 8,
       "BuchungszeitraumDate": "2026-06-23T16:30:00.000Z"
     },
     {
@@ -27176,7 +27085,7 @@
         "204,SEBASTIAN,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 1,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27232,7 +27141,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 24,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-06-23T17:00:00.000Z"
     },
     {
@@ -27317,10 +27226,10 @@
       "BlockIstFrei": 0,
       "Ressourcen": [
         "108,Kursraum 1,0",
-        "115,GABY,1"
+        "178,FRAUKE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 8,
+      "Teilnehmer": 10,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27358,25 +27267,25 @@
           "Bezeichnung": "Kursraum 1"
         },
         {
-          "Id": 115,
+          "Id": 178,
           "Mitarbeiter": 1,
-          "Bezeichnung": "GABY"
+          "Bezeichnung": "FRAUKE"
         }
       ],
       "RessourcesNrs": [
         108,
-        115
+        178
       ],
       "MitarbeiterRessourcen": [
         {
-          "Id": 115,
+          "Id": 178,
           "Mitarbeiter": 1,
-          "Bezeichnung": "GABY"
+          "Bezeichnung": "FRAUKE"
         }
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 15,
       "BuchungszeitraumDate": "2026-06-24T07:00:00.000Z"
     },
     {
@@ -27389,10 +27298,10 @@
       "BlockIstFrei": 0,
       "Ressourcen": [
         "108,Kursraum 1,0",
-        "115,GABY,1"
+        "178,FRAUKE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 8,
+      "Teilnehmer": 9,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27430,25 +27339,25 @@
           "Bezeichnung": "Kursraum 1"
         },
         {
-          "Id": 115,
+          "Id": 178,
           "Mitarbeiter": 1,
-          "Bezeichnung": "GABY"
+          "Bezeichnung": "FRAUKE"
         }
       ],
       "RessourcesNrs": [
         108,
-        115
+        178
       ],
       "MitarbeiterRessourcen": [
         {
-          "Id": 115,
+          "Id": 178,
           "Mitarbeiter": 1,
-          "Bezeichnung": "GABY"
+          "Bezeichnung": "FRAUKE"
         }
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 16,
       "BuchungszeitraumDate": "2026-06-24T08:00:00.000Z"
     },
     {
@@ -27465,7 +27374,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 18,
       "Teilnehmer": 18,
-      "WLTeilnehmer": 1,
+      "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -27752,7 +27661,7 @@
         "220,SABINE,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 3,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -27808,7 +27717,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 22,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-06-24T16:00:00.000Z"
     },
     {
@@ -28040,7 +27949,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 10,
+      "Teilnehmer": 15,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28096,7 +28005,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 15,
+      "FreiePlaetze": 10,
       "BuchungszeitraumDate": "2026-06-25T07:00:00.000Z"
     },
     {
@@ -28185,7 +28094,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 5,
+      "WLTeilnehmer": 8,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -28256,7 +28165,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 3,
+      "Teilnehmer": 5,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28312,7 +28221,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 17,
+      "FreiePlaetze": 15,
       "BuchungszeitraumDate": "2026-06-25T08:00:00.000Z"
     },
     {
@@ -28328,8 +28237,8 @@
         "239,Marlene,1"
       ],
       "MaximaleAnzahlTeilnehmer": 28,
-      "Teilnehmer": 24,
-      "WLTeilnehmer": 0,
+      "Teilnehmer": 28,
+      "WLTeilnehmer": 1,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
       "Altersbeschraenkung": 0,
@@ -28384,8 +28293,8 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 4,
-      "BuchungszeitraumDate": "2026-06-25T08:30:00.000Z"
+      "FreiePlaetze": 0,
+      "AufWartelisteSetzen": true
     },
     {
       "Nr": 117592,
@@ -28401,7 +28310,7 @@
       ],
       "MaximaleAnzahlTeilnehmer": 28,
       "Teilnehmer": 28,
-      "WLTeilnehmer": 14,
+      "WLTeilnehmer": 17,
       "BWLTeilnehmer": 0,
       "Farbe": "#58c4e0",
       "Altersbeschraenkung": 0,
@@ -28472,7 +28381,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 1,
+      "Teilnehmer": 4,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28528,7 +28437,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 24,
+      "FreiePlaetze": 21,
       "BuchungszeitraumDate": "2026-06-25T15:00:00.000Z"
     },
     {
@@ -28544,7 +28453,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 5,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28600,7 +28509,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-06-25T16:00:00.000Z"
     },
     {
@@ -28616,7 +28525,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 6,
+      "Teilnehmer": 8,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#56c1dd",
@@ -28672,7 +28581,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 14,
+      "FreiePlaetze": 12,
       "BuchungszeitraumDate": "2026-06-25T16:00:00.000Z"
     },
     {
@@ -28759,7 +28668,7 @@
         "117,ALEX (w),1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 4,
+      "Teilnehmer": 6,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28815,7 +28724,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 21,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-06-25T17:00:00.000Z"
     },
     {
@@ -28831,7 +28740,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28887,7 +28796,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 23,
       "BuchungszeitraumDate": "2026-06-26T06:45:00.000Z"
     },
     {
@@ -28903,7 +28812,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 3,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -28933,7 +28842,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 185,
@@ -28959,7 +28868,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 17,
       "BuchungszeitraumDate": "2026-06-26T07:00:00.000Z"
     },
     {
@@ -28975,7 +28884,7 @@
         "114,SANDRA,1"
       ],
       "MaximaleAnzahlTeilnehmer": 25,
-      "Teilnehmer": 0,
+      "Teilnehmer": 2,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -29005,7 +28914,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -29031,7 +28940,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
+      "FreiePlaetze": 23,
       "BuchungszeitraumDate": "2026-06-26T07:30:00.000Z"
     },
     {
@@ -29077,7 +28986,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
@@ -29149,7 +29058,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 185,
@@ -29191,7 +29100,7 @@
         "77,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#57c4e0",
@@ -29221,7 +29130,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 130,
@@ -29247,7 +29156,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-06-26T15:30:00.000Z"
     },
     {
@@ -29293,7 +29202,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 108,
