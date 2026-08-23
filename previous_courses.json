@@ -8259,7 +8259,7 @@
         "78,Kursraum 2,0"
       ],
       "MaximaleAnzahlTeilnehmer": 20,
-      "Teilnehmer": 0,
+      "Teilnehmer": 1,
       "WLTeilnehmer": 0,
       "BWLTeilnehmer": 0,
       "Farbe": "#009cc4",
@@ -8315,7 +8315,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
+      "FreiePlaetze": 19,
       "BuchungszeitraumDate": "2026-08-17T16:00:00.000Z"
     },
     {
@@ -11562,7 +11562,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 115,
