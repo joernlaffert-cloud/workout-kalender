@@ -6881,8 +6881,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\"><font color=\"#ffffff\">Wirbelsäulenspezifische Kräftigungs-, Dehnungs- und Mobilisationsübungen zum Abbau schmerzverursachender Verspannungen und Prävention von Rückenbeschwerden.</font></font></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -6952,10 +6952,10 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 12,
@@ -6981,8 +6981,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-09-03T08:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 87948,
@@ -7024,7 +7023,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Das Hatha Yoga vermittelt die Körper- und Atemübungen der ältesten, aus Indien überlieferten Methode zur Förderung des Körperbewusstseins, zur Konzentration, Meditation und Entspannung.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font><span style=\"font-size: 9.0pt;color: #555555;\"></span></p><p></p><p><span style=\"font-size: 10.0pt;\"></span></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -7053,8 +7052,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-09-03T09:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 88607,
@@ -7096,8 +7094,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Stark und standfest im Alter</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">- Stehst Du nicht mehr so sicher auf den Beinen?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">- Fällt es Dir immer schwerer Treppen hinauf- oder hinabzusteigen?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">- Ist es anstrengend aus dem Sitz auf dem Sofa zum Stehen nach oben zu kommen?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Mit gezielten Übungen werden das Gleichgewicht, die Koordination und die Kraft geschult und gestärkt.</font></p></div>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7167,8 +7165,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7238,8 +7236,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><font size=\"4\" face=\"'times new roman', serif\">Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.</font><!--EndFragment--><br/><br/><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7309,8 +7307,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7380,8 +7378,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7451,8 +7449,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"4\"><br/></font></p><!--StartFragment--><h2 style=\"text-align: left;\"><font size=\"4\">Funktionstraining</font><font size=\"4\"> stellt eine wirksame Hilfe zur Selbsthilfe und ein Mittel zur Eigenverantwortlichkeit für die</font><font size=\"4\"> Gesundheit dar </font><font size=\"4\">wird bei Erkrankungen oder Funktionseinschränkungen der Stütz- und Bewegungsorgane</font><font size=\"4\"> verordnet.</font></h2><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7522,8 +7520,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><font size=\"4\"><br/></font></p><!--StartFragment--><h2 style=\"text-align: left;\"><font size=\"4\">Funktionstraining</font><font size=\"4\"> stellt eine wirksame Hilfe zur Selbsthilfe und ein Mittel zur Eigenverantwortlichkeit für die</font><font size=\"4\"> Gesundheit dar </font><font size=\"4\">wird bei Erkrankungen oder Funktionseinschränkungen der Stütz- und Bewegungsorgane</font><font size=\"4\"> verordnet.</font></h2><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7593,8 +7591,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><font size=\"4\" face=\"'times new roman', serif\">Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.</font><!--EndFragment--><br/><br/><br/></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7664,8 +7662,8 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><br/><!--StartFragment--><span style=\"font-size: 11pt;\"><span style=\"color: #000000;\"></span></span></p><div><font size=\"4\" face=\"'times new roman', serif\"><strong></strong>Rehabilitationssport​ findet als Gruppentraining statt, das von qualifizierten <br/>Übungsleitern betreut wird. Beim Rehasport handelt es sich um eine Leistung<br/> für von (körperlich) Behinderung bedrohten Menschen, die wieder <br/>dauerhaft in das Arbeitsleben sowie in die Gesellschaft integriert <br/>werden sollen.<strong></strong></font></div><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p><p></p>",
-      "Stattgefunden": false,
-      "NichtBuchbar": true,
+      "Stattgefunden": true,
+      "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
@@ -7735,7 +7733,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -7764,8 +7762,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-09-03T15:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 78556,
@@ -7807,7 +7804,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Das Hatha Yoga vermittelt die Körper- und Atemübungen der ältesten, aus Indien überlieferten Methode zur Förderung des Körperbewusstseins, zur Konzentration, Meditation und Entspannung.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">​</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\"><br/></font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Kennst du schon unsere ClubConnector App?</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">1. ClubConnector-App im App-Store runterladen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">2. QR Code im Studio einscannen</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p></p><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#ffffff\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font><span style=\"font-size: 9.0pt;color: #555555;\"></span></p><p></p><p><span style=\"font-size: 10.0pt;\"></span></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -7836,8 +7833,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 20,
-      "BuchungszeitraumDate": "2026-09-03T16:00:00.000Z"
+      "FreiePlaetze": 20
     },
     {
       "Nr": 85601,
@@ -7879,7 +7875,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<div><p><font size=\"3\" face=\"Arial, Helvetica, sans-serif\" color=\"#fbfafa\">Cardio Power</font></p><p><font size=\"3\"><font face=\"Arial, Helvetica, sans-serif\" color=\"#fbfafa\">ist ein Herz-Kreislauf-Training, das aus einfachen Aerobic-Schritten besteht, die im Laufe des Kurses zu High-Impact Elementen ausgebaut werden. Lass dich von der Musik motivieren und power dich in diesem Workout so richtig aus!</font><b>​</b></font></p><p><font size=\"3\"><span style=\"font-size: 20px;\"></span></font></p><p></p><br/><br/><!--StartFragment--><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Kennst du schon unsere ClubConnector App?</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">1. ClubConnector-App im App-Store runterladen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">2. QR Code im Studio einscannen</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p style=\"font-size: 12px;\"><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><!--EndFragment--><br/><br/><p style=\"font-size: 12px;\"><span style=\"font-size: 9pt;\"><font color=\"#f6f6f6\"></font></span></p><!--EndFragment--><p><font size=\"3\"><br/></font></p><p></p></div>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -7950,7 +7946,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": null,
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -8021,7 +8017,7 @@
       "NutzungsrechteMeldung": null,
       "TerminartNutzungsrechte": "",
       "Infotext": "<p><span style=\"font-size: medium;\"><span id=\"selectionBoundary_1699607312162_519819804964412\" class=\"rangySelectionBoundary\">&#65279;</span>Als Mitglied des Workouts Wasserwelt, bist du auch hier in den Kursen herzlich willkommen! Unseren Kursplan kannst du jederzeit über deine ClubConnector App einsehen.</span><br/></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Kennst du schon unsere ClubConnector App?</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Jetzt wird die Kursbuchung noch einfacher.</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">1. ClubConnector-App im App-Store runterladen</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">2. QR Code im Studio einscannen</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">3. Mit Vor- und Nachnamen, sowie Mobilfunknummer registrieren</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">4. Registrierungscode per SMS erhalten und App abschließend aktivieren</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">5. Jetzt kannst du dich für Kurse anmelden, Trainertermine buchen, deine Daten verwalten und vieles mehr.</font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\"></font></p><p><font color=\"#f6f6f6\" size=\"3\" face=\"Arial, Helvetica, sans-serif\">Du bist noch kein Mitglied? Kein Problem, hol dir deine Tageskarte für 15€ und probiere deine Lieblingskurse aus!</font></p><!--EndFragment--><p><br/></p><p><br/></p><p><br/></p>",
-      "Stattgefunden": false,
+      "Stattgefunden": true,
       "NichtBuchbar": false,
       "Ausgebucht": false,
       "AusserhalbBuchungszeitraum": false,
@@ -8050,8 +8046,7 @@
       ],
       "NichtMitarbeiterRessourcen": [],
       "AllTerminartNutzungsrechte": [],
-      "FreiePlaetze": 25,
-      "BuchungszeitraumDate": "2026-09-04T07:00:00.000Z"
+      "FreiePlaetze": 25
     },
     {
       "Nr": 79278,
@@ -11406,7 +11401,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 132,
@@ -11478,7 +11473,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 115,
@@ -12189,7 +12184,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 147,
@@ -12261,7 +12256,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 170,
@@ -12475,7 +12470,7 @@
       "Stattgefunden": false,
       "NichtBuchbar": false,
       "Ausgebucht": false,
-      "AusserhalbBuchungszeitraum": true,
+      "AusserhalbBuchungszeitraum": false,
       "AllRessources": [
         {
           "Id": 46,
